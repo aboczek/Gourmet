@@ -33,19 +33,20 @@ header h1 {
 }
 
 #menu li:hover {
-    background-color: white;
+    border-color: gold;    
 }
+
 
 
 
 /* background */
 
 body {
-    background-image: url("/assets/css/images/pexels-photo-260922.webp");
+    background-image: url("/assets/images/pexels-photo-260922.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 1000px;
+    max-height: max-content;
 }
 
 
