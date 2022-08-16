@@ -6,6 +6,25 @@
     border: none;
 }
 
-#gourmet {
-    font-size; 300%;
+/* Header */
+
+header a, menu li a {
+    text-decoration: none;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 500%;
+    margin: 60px;
+}
+
+
+#menu {
+    text-align: center;
+}
+
+#menu li {
+    font-size: 130%;
+    display: inline-block;
+    width: 200px;
 }
