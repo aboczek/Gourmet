@@ -10,6 +10,7 @@
 
 header a, menu li a {
     text-decoration: none;
+    color: white;
 }
 
 header h1 {
@@ -27,8 +28,14 @@ header h1 {
     font-size: 130%;
     display: inline-block;
     width: 200px;
-    border: 1px solid white;
+    border: 2px solid white;
+    border-radius: 10px;
 }
+
+#menu li:hover {
+    background-color: white;
+}
+
 
 
 /* background */
@@ -39,4 +46,15 @@ body {
     background-size: cover;
     background-position: center;
     height: 1000px;
+}
+
+
+
+/* section */
+
+section h2 {
+    text-align: center;
+    color: white;
+    margin: 100px;
+    font-size: 30px;
 }
