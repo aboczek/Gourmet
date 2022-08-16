@@ -24,8 +24,7 @@
 
 
 # Test:
-
-## Done in GITPOD preview and more in future w3s validator and css validator.
+### Done in GITPOD preview and more in future w3s validator and css validator.
 
 
 # Contributions:
