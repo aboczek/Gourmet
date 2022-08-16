@@ -27,4 +27,16 @@ header h1 {
     font-size: 130%;
     display: inline-block;
     width: 200px;
+    border: 1px solid white;
+}
+
+
+/* background */
+
+body {
+    background-image: url("/assets/css/images/pexels-photo-260922.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 1000px;
 }
