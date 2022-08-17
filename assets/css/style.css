@@ -67,7 +67,7 @@ body {
 
 /* section */
 
-section h2 {
+#index h2 {
     text-align: center;
     color: white;
     margin-top: 150px;
@@ -98,7 +98,11 @@ footer h3 {
     background-color: rgba(19, 19, 19, 0.692);
     width: 50%;
     border-radius: 20px;
-    margin: 30px auto;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    font-size: 110;
 }
 
 .mainmenu ul {
@@ -107,3 +111,6 @@ footer h3 {
     list-style-type: none;
 }
 
+.menu-font {
+    font-size: 220%;
+}
