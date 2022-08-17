@@ -35,6 +35,7 @@
 
 ## Pexels.com
 ## Slack Community and my Mentor!
+## Delish.com for food ideas!
 
 
 
