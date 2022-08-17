@@ -1,5 +1,10 @@
 /* for font import*/
 
+@import url('https://fonts.googleapis.com/css2?family=Amethysta&family=Cherish&display=swap');
+
+/* font-family: 'Amethysta', serif;
+font-family: 'Cherish', cursive; */
+
 * {
     padding: 0;
     margin: 0;
@@ -15,13 +20,18 @@ header a, menu li a {
 
 header h1 {
     text-align: center;
-    font-size: 500%;
-    margin: 60px;
+    font-size: 900%;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Cherish', cursive;
 }
 
 
 #menu {
     text-align: center;
+    
 }
 
 #menu li {
@@ -30,12 +40,17 @@ header h1 {
     width: 200px;
     border: 2px solid white;
     border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #menu li:hover {
     border-color: gold;    
 }
 
+#menu li a {
+    font-family: 'Amethysta', serif;
+}
 
 
 
@@ -46,7 +61,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    max-height: max-content;
+    height: 1270px;
 }
 
 
@@ -56,6 +71,11 @@ body {
 section h2 {
     text-align: center;
     color: white;
-    margin: 100px;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
     font-size: 30px;
+    font-family: 'Amethysta', serif;
 }
+
+/* footer */
