@@ -35,7 +35,6 @@ header h1 {
 
 #menu {
     text-align: center;
-    
 }
 
 #menu li {
@@ -93,6 +92,7 @@ footer h3 {
     background: rgba(99, 99, 99, o.5);
     width: 100%;
     text-align: center;
+    margin-top: 50px;
 }
 
 
@@ -124,3 +124,30 @@ footer h3 {
     font-size: 80%;
 }
 
+/* drinks */
+
+.cocktails {
+    text-align: center;
+    color: white;
+    background-color: rgba(19, 19, 19, 0.692);
+    width: 50%;
+    border-radius: 20px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+.cocktails ul {
+    font-size: 120%;
+    font-weight: 300;
+    list-style-type: none;
+}
+
+.cocktails-font {
+    font-size: 250%;
+}
+
+.cocktails ul p {
+    font-size: 80%;
+}
