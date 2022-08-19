@@ -11,6 +11,10 @@ font-family: 'Cherish', cursive; */
     border: none;
 }
 
+/* body scroll */
+
+/* Add scroll bar here!!*/
+
 /* Header */
 
 header a, menu li a {
@@ -60,7 +64,8 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 1270px;
+    height: 1000px;
+    background-attachment: fixed;
 }
 
 
@@ -106,11 +111,16 @@ footer h3 {
 }
 
 .mainmenu ul {
-    font-size: 110%;
+    font-size: 120%;
     font-weight: 300;
     list-style-type: none;
 }
 
 .menu-font {
-    font-size: 220%;
+    font-size: 250%;
 }
+
+.mainmenu ul p {
+    font-size: 80%;
+}
+

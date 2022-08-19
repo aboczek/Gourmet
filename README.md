@@ -36,6 +36,8 @@
 ## Pexels.com
 ## Slack Community and my Mentor!
 ## Delish.com for food ideas!
+## https://www.lacucinaitaliana.com/ for food ideas!
+## https://css-tricks.com/almanac/properties/s/scrollbar/ for scroll bar
 
 
 
