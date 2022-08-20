@@ -1,30 +1,92 @@
 # Gourmet Restaurant Portfolio Project 1
 
+This is protfolio project about italian restaurant called Gourmet, its designed to represent my journey through the project itself. You will be able to navigate through website on many devices from PC's to small portable devices without any problem.
+
+**Picture here from finished project**
+
+#
 
 # Motivation:
 
 
-### This project is about restaurant, menu and booking table. 
-### Main purpose of this project is to present landing page of the restaurant with menu, drinks, booking table and contact us/about us.
+This project is about restaurant, menu and booking table. 
+Main purpose of this project is to present landing page of the restaurant with menu, drinks, booking table and contact us/about us.
 
-### I chose this project over any other one is because how hard it is to get pictures without copyright on them. 
-### Wanted something nice and sleek.
+I chose this project over any other one is because how hard it is to get pictures without copyright on them. 
+Wanted something nice and sleek.
 
+# User Experience (UX)
 
+1. User Stories
+ - First time visitor goals:
+    - As first time visiting website I want you to understand whats the website about.
+    - As first time visiting website I want you to navigate easily through the website.
 
-# Build status: under construction.
-### Some structure has been added.
+ - Returning visitor goals:
+    - As returning visitor I want you to easly navigate through website as the first time without any issue even if there were any changes implemented.
 
+2. Design
+    - Colors:
+        - Colors used on the website are Gold, White and Black.
+
+    - Fonts:
+        - Fonts used on website are Cherish and Amethyst from google fonts. Cherish is used for logo itself and Amethyst for buttons.
+        - Backup fonts is sans-serif if main font cannot be loaded for any reason.
+
+    - Images:
+        - Image of restaurant used from pexels it is nice golden black colors which suit the website color design.
+
+3. Wireframes
+    - Homepage/Landing page TBC
+    - Main menu TBC
+    - Drinks menu TBC
+    - Book table! TBC
+    - Contact us TBC
+
+# Features
+
+1. Responsive on all devices.
+2. Interactive buttons
+3. Contact us.
 
 
 # Technology, Frameworks and Programs used.
-### HTML5
-### CSS3
-### https://www.pexels.com/
+
+1. Languages
+    - [HTML5](https://en.wikipedia.org/wiki/HTML5).
+    - [CSS3](https://en.wikipedia.org/wiki/CSS).
+
+2. Technology, Frameworks and programs used.
+    
+    - [Pexels](https://www.pexels.com/).
+        - Pexels was used on background picture of entire website.
+
+    - [Google fonts](https://fonts.google.com/).
+        - Google fonts was used to pick and import fonts to my project.
+    
+    - [GitHub](https://github.com/).
+        - GitHub was used to store my source code by git add . git commit and git push.
+
+    - [Git](https://gitpod.io/).
+        - Git was used with GitPod to write down the code and push it to GitHub.
+    
+    - [Balsamiq](https://balsamiq.com/).
+        - Balsamiq was used to design the website idea itself.
 
 
-# Test:
-### Done in GITPOD preview and more in future w3s validator and css validator.
+# Testing
+
+Testing was done in W3C Markup Validator and W3C CSS Validator Services to make sure there is no markup errors in syntax.
+
+1. Testing on website.
+
+
+2. Testing on portable devices.
+
+
+3. Known bugs.
+
+
 
 
 # Contributions:
@@ -33,12 +95,11 @@
 
 # Credits:
 
-## Pexels.com
-## Slack Community and my Mentor!
-## Delish.com for food ideas!
-## https://www.lacucinaitaliana.com/ for food ideas!
-## https://css-tricks.com/almanac/properties/s/scrollbar/ for scroll bar
-## https://www.bbcgoodfood.com/ for drinks ingredients
-
-
-
+- [Pexels.com](http.//www.pexels.com)
+- Slack Community and my Mentor!
+- [Delish.com](https://www.delish.com/) for food ideas!
+- https://www.lacucinaitaliana.com/ for food ideas!
+- https://css-tricks.com/almanac/properties/s/scrollbar/ for scroll bar
+- https://www.bbcgoodfood.com/ for drinks ingredients
+- https://winefolly.com/deep-dive/italian-red-wines/ for italian red wines and their flavour
+- Credit goes to Code Institute README.ME template would be lost without it.

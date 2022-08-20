@@ -29,7 +29,7 @@ header h1 {
     margin-bottom: 50px;
     margin-left: auto;
     margin-right: auto;
-    font-family: 'Cherish', cursive;
+    font-family: 'Cherish', cursive, sans-serif;
 }
 
 
@@ -52,7 +52,7 @@ header h1 {
 }
 
 #menu li a {
-    font-family: 'Amethysta', serif;
+    font-family: 'Amethysta', sans-serif;
 }
 
 
