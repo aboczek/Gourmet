@@ -37,11 +37,11 @@ Wanted something nice and sleek.
         - Image of restaurant used from pexels it is nice golden black colors which suit the website color design.
 
 3. Wireframes
-    - Homepage/Landing page TBC
-    - Main menu TBC
-    - Drinks menu TBC
-    - Book table! TBC
-    - Contact us TBC
+    - [Homepage](documentation/homepage.png)
+    - [Main Menu](documentation/mainmenu.png)
+    - [Drinks](documentation/drinks.png)
+    - [Book table!](documentation/booktable.png)
+    - [Contact Us](documentation/contactus.png)
 
 # Features
 
@@ -91,7 +91,7 @@ Testing was done in W3C Markup Validator and W3C CSS Validator Services to make 
 
 # Contributions:
 
-##
+
 
 # Credits:
 
