@@ -61,6 +61,7 @@ header h1 {
 }
 
 
+
 /* background */
 
 body {
@@ -70,6 +71,7 @@ body {
     background-position: center;
     height: 80vh;
     background-attachment: fixed;
+    font-family: 'Amethysta', serif;
 }
 
 
@@ -77,7 +79,7 @@ body {
 /* section */
 
 section {
-    margin: 20vh;
+    margin: 10vh;
 }
 
 #index h2 {
@@ -128,10 +130,16 @@ footer p {
 
 .menu-font {
     font-size: 250%;
+    text-decoration: underline;
 }
+
 
 .mainmenu ul p {
     font-size: 80%;
+}
+
+.price {
+    text-align: right;
 }
 
 /* drinks */
@@ -156,8 +164,12 @@ footer p {
 
 .cocktails-font {
     font-size: 250%;
+    text-decoration: underline;
 }
 
 .cocktails ul p {
     font-size: 80%;
 }
+
+
+/* Portable devices */
