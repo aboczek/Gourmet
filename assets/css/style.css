@@ -40,6 +40,8 @@ header h1 {
 #menu {
     text-align: center;
     margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #menu li {
@@ -48,8 +50,7 @@ header h1 {
     width: 200px;
     border: 2px solid white;
     border-radius: 10px;
-    margin-left: auto;
-    margin-right: auto;
+
 }
 
 #menu li:hover {
@@ -96,7 +97,7 @@ section {
 
 footer {
     height: 5vh;
-    margin: 10px;
+    margin: 10px auto;
 }
 
 footer p {
@@ -138,9 +139,6 @@ footer p {
     font-size: 80%;
 }
 
-.price {
-    text-align: right;
-}
 
 /* drinks */
 
@@ -175,23 +173,48 @@ footer p {
 
 .booktable {
     margin: 15vh auto;
-
+    text-align: center;
 }
 
 .booktable form {
     color: white;
-    text-align: center;
     font-size: 25px;
     background: rgba(19, 19, 19, 0.692);
+    margin-bottom: 20px;
     margin-left: auto;
     margin-right: auto;
     width: 450px;
-    height: 480px;
+    height: 550px;
     display: block;
     border-radius: 20px;
 }
 
+input[type=submit] {
+    margin: 5px;
+    width: 60px;
+    height: 25px;
+}
+
+
+
 /* contact us */
 
+.contact {
+    margin: 15vh auto;
+    text-align: center;
+}
+
+.contact form {
+    color: white;
+    font-size: 25px;
+    background: rgba(19, 19, 19, 0.692);
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 450px;
+    display: block;
+    border-radius: 20px;
+}
 
 /* Portable devices */
