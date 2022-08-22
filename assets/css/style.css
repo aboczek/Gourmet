@@ -173,6 +173,11 @@ footer p {
 
 /* book table */
 
+.booktable {
+    margin: 15vh auto;
+
+}
+
 .booktable form {
     color: white;
     text-align: center;
