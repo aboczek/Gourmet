@@ -112,16 +112,16 @@ footer p {
 
 /* Main Menu */
 
-.mainmenu {
+/* .mainmenu {
     text-align: center;
     color: white;
     background-color: rgba(19, 19, 19, 0.692);
-    width: 75%;
+    width: 75vh;
     border-radius: 20px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
-}
+} */
 
 .mainmenu ul {
     font-size: 120%;
@@ -222,3 +222,42 @@ input[type=submit] {
 }
 
 /* Portable devices */
+
+
+
+
+/* menu idea */
+
+.flexmenu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+.flex-menu {
+    color: white;
+    background-color: rgba(19, 19, 19, 0.692);
+    width: 35vw;
+    height: 50%;
+    border-radius: 20px;
+}
+
+.flex-menu ul li {
+    list-style-type: none;
+    margin: 10px;
+}
+
+.flex-menu ul p {
+    margin: 10px;
+}
+
+.flex-menu ul h4 {
+    text-align: center;
+}
+
+.menu-head {
+    text-align: center;
+    color:white;
+    background-color: rgba(19, 19, 19, 0.692);
+    width: 35vw;
+}
