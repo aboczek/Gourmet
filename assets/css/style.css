@@ -121,15 +121,23 @@ footer p {
     margin-bottom: auto;
     margin-right: auto;
     flex-wrap: wrap;
-    width: 40%;
+    width: 600px;
     background-color: rgba(19, 19, 19, 0.692);
     backdrop-filter: blur(10px);
     border-radius: 25px;
 }
 
+
+.price {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+}
+
+
 .menu-item * {
     list-style-type: none;
-    margin: 20px 0;
+    margin: 5px 0;
 }
 
 .menu-item p {
@@ -137,7 +145,7 @@ footer p {
     font-weight: 200;
 }
 
-.menu-item > li {
+.menu-item div li {
     font-size: 20px;
     font-weight: 600;
 }
@@ -221,14 +229,9 @@ input[type=submit] {
           
 /* Media Query for Laptops and Desktops */
 @media (min-width: 1025px) and (max-width: 1280px){
-.flex {
-    width: 40%;
-    margin-top: 10px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: auto;
-}
 
 }
+
+
 
 
