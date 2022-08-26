@@ -1,4 +1,4 @@
-/* for font import*/
+/* for font import */
 
 @import url('https://fonts.googleapis.com/css2?family=Amethysta&family=Cherish&display=swap');
 
@@ -153,13 +153,15 @@ footer p {
     font-weight: 500;
 }
 
-.flex h4, h2 {
+.flex h3, h2 {
     text-align: center;
 }
 
 .menu-head {
     font-size: 26px;
 }
+
+/* drink menu */
 
 /* book table */
 
