@@ -145,6 +145,7 @@ footer p {
     font-weight: 200;
     font-size: 14px;
     flex-grow: 0;
+    padding-bottom: 5px;
 }
 
 .menu-item div li {
@@ -156,10 +157,14 @@ footer p {
     text-align: center;
 }
 
+.menu-head {
+    font-size: 26px;
+}
+
 /* book table */
 
 .booktable {
-    margin: 20vh auto;
+    margin: 0 auto;
     text-align: center;
 }
 
@@ -192,7 +197,7 @@ input[type=submit] {
 /* contact us */
 
 .contact {
-    margin: 20vh auto;
+    margin: 0 auto;
     text-align: center;
 }
 
