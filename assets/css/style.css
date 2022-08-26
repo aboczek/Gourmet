@@ -11,15 +11,13 @@ font-family: 'Cherish', cursive; */
     border: none;
 }
 
-/* body scroll */
 
-/* Add scroll bar here!!*/
 
 /* Header */
 
-header {
+
+nav {
     margin-top: 30px;
-    margin-bottom: 50px;
     margin-left: auto;
     margin-right: auto;
     height: 15vh;
@@ -77,9 +75,9 @@ body {
 
 
 
-/* section */
+/* main part of body */
 
-section {
+div {
     margin: 10vh;
 }
 
@@ -110,9 +108,43 @@ footer p {
 }
 
 
-/* Main Menu */
+/* main menu */
 
+.flex {
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+    color: white;
+    padding: 20px 20px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    flex-wrap: wrap;
+    width: 40%;
+    background-color: rgba(19, 19, 19, 0.692);
+    backdrop-filter: blur(10px);
+    border-radius: 25px;
+}
 
+.menu-item * {
+    list-style-type: none;
+    margin: 20px 0;
+}
+
+.menu-item p {
+    color: lightgoldenrodyellow;
+    font-weight: 200;
+}
+
+.menu-item > li {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.flex h4, h2 {
+    text-align: center;
+}
 
 /* book table */
 
@@ -168,5 +200,35 @@ input[type=submit] {
 
 /* Portable devices */
 
+          
+/* Media Query for Mobile Devices */
+@media (max-width: 480px) {
+
+
+
+}
+          
+/* Media Query for low resolution  Tablets, Ipads */
+@media (min-width: 481px) and (max-width: 767px) {
+   
+
+}
+          
+/* Media Query for Tablets Ipads portrait mode */
+ @media (min-width: 768px) and (max-width: 1024px){
+
+}
+          
+/* Media Query for Laptops and Desktops */
+@media (min-width: 1025px) and (max-width: 1280px){
+.flex {
+    width: 40%;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+}
 
 
