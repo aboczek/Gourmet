@@ -177,7 +177,20 @@ footer p {
     border-radius: 25px;
 }
 
+.cocktail-menu {
+    font-size: 26px;
+    margin-bottom: 5px;
+}
 
+.cocktail-item * {
+    list-style-type: none;
+    margin: 5px 0;
+}
+
+.cocktail-item li {
+    font-size: 20px;
+    font-weight: 500;
+}
 
 /* book table */
 
