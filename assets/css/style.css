@@ -192,6 +192,10 @@ footer p {
     font-weight: 500;
 }
 
+.cocktail-item div {
+    font-size: 18px;
+}
+
 /* book table */
 
 .booktable {
