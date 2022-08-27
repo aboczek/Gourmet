@@ -77,9 +77,6 @@ body {
 
 /* main part of body */
 
-div {
-    margin: 10vh;
-}
 
 #index h2 {
     text-align: center;
@@ -153,7 +150,7 @@ footer p {
     font-weight: 500;
 }
 
-.flex h3, h2 {
+.center, h3 {
     text-align: center;
 }
 
