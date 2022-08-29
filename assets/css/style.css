@@ -180,6 +180,7 @@ footer p {
 .cocktail-menu {
     font-size: 26px;
     margin-bottom: 5px;
+    
 }
 
 .cocktail-item * {
@@ -216,7 +217,7 @@ footer p {
     margin-left: auto;
     margin-right: auto;
     width: 450px;
-    height: 500px;
+    height: 550px;
     display: block;
     border-radius: 20px;
 }
@@ -245,7 +246,7 @@ input[type=submit] {
     margin-left: auto;
     margin-right: auto;
     width: 450px;
-    height: 420px;
+    height: 480px;
     display: block;
     border-radius: 20px;
 }
