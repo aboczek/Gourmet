@@ -113,16 +113,17 @@ footer p {
     flex-direction: column;
     color: white;
     padding: 20px 20px;
-    margin-top: 10px;
+    margin-top: 50px;
     margin-left: auto;
     margin-bottom: auto;
     margin-right: auto;
-    flex-wrap: wrap;
     width: 700px;
+    height: 400px;
     background-color: rgba(19, 19, 19, 0.692);
     backdrop-filter: blur(10px);
     border-radius: 25px;
 }
+
 
 
 .price {
@@ -145,12 +146,12 @@ footer p {
     padding-bottom: 5px;
 }
 
-.menu-item div li {
+.menu-item ul li {
     font-size: 20px;
     font-weight: 500;
 }
 
-.center, h3 {
+.center, .changes {
     text-align: center;
 }
 
@@ -193,7 +194,7 @@ footer p {
     font-weight: 500;
 }
 
-.cocktail-item div {
+.cocktail-item ul {
     font-size: 18px;
 }
 
