@@ -166,8 +166,19 @@ Wanted something nice and sleek.
         **picture**
 
 - All forms like booking table and contact us have required data to be filled in.
+    (All forms have dummy link and wont send data to anyone)
 
     **picture**
+
+- Possible popup thank you or table has been booked on forms.
+
+    **picture**
+
+- Footer
+
+    **picture**
+
+
 
 
 
