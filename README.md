@@ -92,13 +92,6 @@ Wanted something nice and sleek.
 - 
 - 
 
-# Features
-
-1. Responsive on all devices.
-2. Interactive buttons
-3. Book table.
-4. Contact us.
-
 # Website structure
 
 |  Screen size |  Breakpoint |
@@ -132,6 +125,15 @@ Wanted something nice and sleek.
     
     - [Balsamiq](https://balsamiq.com/).
         - Balsamiq was used to design the website idea itself.
+
+# Features
+
+1. Responsive on all devices.
+2. Interactive buttons
+3. Book table.
+4. Contact us.
+
+
 
 
 # Testing
