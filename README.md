@@ -6,7 +6,7 @@ This is protfolio project about Italian restaurant called Gourmet, it is designe
 
 ## Table of content
 
-- [Motivation:](#markdown-header-my-first-title)
+- [Motivation](#Motivation:)
 
 
 # Motivation:
@@ -68,6 +68,7 @@ Wanted something nice and sleek.
     - Images:
         - Image of [restaurant](https://www.pexels.com/photo/alcohol-architecture-bar-beer-260922/) used from pexels it is nice golden black colors which suit the website color design.
 
+ [Back to top](#gourmet-restaurant-portfolio-project-1)
 ## Wireframes
 
 ### Desktop
@@ -101,7 +102,7 @@ Wanted something nice and sleek.
 # Website structure
 
 
-
+[Back to top](#gourmet-restaurant-portfolio-project-1)
 # Technology, Frameworks and Programs used.
 
 1. Languages
@@ -155,3 +156,4 @@ Testing was done in W3C Markup Validator and W3C CSS Validator Services to make 
 - https://www.bbcgoodfood.com/ for drinks ingredients
 - https://winefolly.com/deep-dive/italian-red-wines/ for italian red wines and their flavour
 
+[Back to top](#gourmet-restaurant-portfolio-project-1)
