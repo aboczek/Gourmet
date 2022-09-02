@@ -29,7 +29,9 @@ Wanted something nice and sleek.
 
 ## Design
  - Colors:
-    - Colors used on the website are Gold, White and Black.
+    - Colors used on the website are:
+        - Gold #ffd700;
+        - White 
 
     - Fonts:
         - Fonts used on website are Cherish and Amethyst from google fonts. Cherish is used for logo itself and Amethyst for buttons.
@@ -120,4 +122,4 @@ Testing was done in W3C Markup Validator and W3C CSS Validator Services to make 
 - https://css-tricks.com/almanac/properties/s/scrollbar/ for scroll bar
 - https://www.bbcgoodfood.com/ for drinks ingredients
 - https://winefolly.com/deep-dive/italian-red-wines/ for italian red wines and their flavour
-- Credit goes to Code Institute README.ME template would be lost without it.
+
