@@ -133,6 +133,41 @@ Wanted something nice and sleek.
 3. Book table.
 4. Contact us.
 
+## Navigation bar
+
+ - Navigation bar will be mostly the same through out the website except for buttons go in column on lower devices. I have decided to go with them instead of hamburger menu because they look nice and would like to keep it the same and be unique.
+
+
+    - Small devices.
+
+        **picture**
+
+
+    - Tablets.
+
+        **picture**
+
+    - Desktop.
+
+        **picture**
+
+- Main content of website will be nicely adjusted on all devices with pictures below:
+
+    - Small devices.
+
+        **picture**
+
+    - Tablets.
+
+        **picture**
+
+    - Desktop.
+
+        **picture**
+
+- All forms like booking table and contact us have required data to be filled in.
+
+    **picture**
 
 
 
