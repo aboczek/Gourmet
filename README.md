@@ -38,6 +38,8 @@ Wanted something nice and sleek.
             [<img src="assets/images/white.png" width="100"/>](white.png)
         - #131313b0;
 
+            [<img src="assets/images/greyopacity.png" width="100"/>](greyopacity.png)
+
     - Fonts:
         - Fonts used on website are Cherish and Amethyst from google fonts. Cherish is used for logo itself and Amethyst for buttons.
         - Backup fonts is sans-serif if main font cannot be loaded for any reason.
