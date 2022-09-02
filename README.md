@@ -40,6 +40,13 @@ Wanted something nice and sleek.
 - Simple ways to book table at the restaurant.
 - Simple ways to contact us if necessary.
 
+## Expectations
+
+- Landing page to be nice and sleek.
+- Food menu to be readable for everyone.
+- Book tabel to work correctly.
+- Contact us form to work correctly.
+
 ## Design
 
  - Colors:
@@ -88,7 +95,8 @@ Wanted something nice and sleek.
 
 1. Responsive on all devices.
 2. Interactive buttons
-3. Contact us.
+3. Book table.
+4. Contact us.
 
 
 # Technology, Frameworks and Programs used.
