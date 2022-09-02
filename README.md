@@ -214,8 +214,8 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 
 # Credits:
 
-- [Pexels.com](http.//www.pexels.com)
 - Slack Community and my Mentor!
+- [Pexels.com](http.//www.pexels.com)
 - [Delish.com](https://www.delish.com/) for food ideas!
 - [Lacucinaitaliana.com](https://www.lacucinaitaliana.com/) for food ideas!
 - [bbcgoodfood.com](https://www.bbcgoodfood.com/) for drinks ingredients
