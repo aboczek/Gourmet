@@ -217,9 +217,7 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 - [Pexels.com](http.//www.pexels.com)
 - Slack Community and my Mentor!
 - [Delish.com](https://www.delish.com/) for food ideas!
-- https://www.lacucinaitaliana.com/ for food ideas!
-- https://css-tricks.com/almanac/properties/s/scrollbar/ for scroll bar
-- https://www.bbcgoodfood.com/ for drinks ingredients
-- https://winefolly.com/deep-dive/italian-red-wines/ for italian red wines and their flavour
+- [Lacucinaitaliana.com](https://www.lacucinaitaliana.com/) for food ideas!
+- [bbcgoodfood.com](https://www.bbcgoodfood.com/) for drinks ingredients
 
 [Back to top](#gourmet-restaurant-portfolio-project-1)
