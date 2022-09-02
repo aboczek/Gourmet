@@ -101,6 +101,13 @@ Wanted something nice and sleek.
 
 # Website structure
 
+|  Screen size |  Breakpoint |
+|---|---|
+|x-small|<576px|
+|small|=> 576px|
+|medium|=> 768px|
+|large|=> 992px|
+|x-large|=> 1200px|
 
 [Back to top](#gourmet-restaurant-portfolio-project-1)
 # Technology, Frameworks and Programs used.
