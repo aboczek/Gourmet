@@ -187,12 +187,13 @@ Wanted something nice and sleek.
 Testing was done in W3C Markup Validator and W3C CSS Validator Services to make sure there is no markup errors in syntax.
 
 1. Testing on website.
-
+    - placeholder for more info
 
 2. Testing on portable devices.
-
+    - placeholder for more info
 
 3. Known bugs.
+    - none so far :)
 
 
 
