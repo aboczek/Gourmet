@@ -98,6 +98,9 @@ Wanted something nice and sleek.
 3. Book table.
 4. Contact us.
 
+# Website structure
+
+
 
 # Technology, Frameworks and Programs used.
 
