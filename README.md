@@ -31,7 +31,12 @@ Wanted something nice and sleek.
  - Colors:
     - Colors used on the website are:
         - Gold #ffd700;
+            
+            [<img src="assets/images/gold.png" width="100"/>](gold.png)
         - White #ffffff;
+
+            [<img src="assets/images/white.png" width="100"/>](white.png)
+        - #131313b0;
 
     - Fonts:
         - Fonts used on website are Cherish and Amethyst from google fonts. Cherish is used for logo itself and Amethyst for buttons.
