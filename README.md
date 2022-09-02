@@ -4,10 +4,29 @@ This is protfolio project about Italian restaurant called Gourmet, it is designe
 
 **Picture here from finished project**
 
-## Table of content
+## Table of content:
 
 - [Motivation](#Motivation:)
-
+- [User Experience](#user-experience-ux)
+    - [User Stories](#user-stories)
+    - [Website Goals](#website-goals)
+    - [Requirements](#requirements)
+    - [Expectations](#expectations)
+    - [Design](#design)
+    - [Wireframes](#wireframes)
+        - [Desktop](#desktop)
+        - [Tablet](#tablet)
+        - [Mobile](#mobile)
+- [Website Structure](#website-structure)
+- [Technology, Frameworks and Programs used](#technology-frameworks-and-programs-used)
+    - [Languages](#languages)
+    - [Frameworks and programs used](#frameworks-and-programs-used)
+- [Features](#features)
+    - [Navigation bar](#navigation-bar)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Contributions](#contributions)
+- [Credits](#credits)
 
 # Motivation:
 
@@ -21,13 +40,20 @@ Wanted something nice and sleek.
 
 ## User Stories
  - First time visitor goals:
-    - As first time visiting website I want you to understand whats the website about.
+    - As first time visiting website I want you to understand what is the website about.
     - As first time visiting website I want you to navigate easily through the website.
 
  - Returning visitor goals:
-    - As returning visitor I want you to easly navigate through website as the first time without any issue even if there were any changes implemented.
+     - As returning visitor I want you to easly navigate through website as the first time without any issue even if there were any changes implemented. 
 
-## Site Goals
+- User goals 
+    - As user I want you to see landing page and navigate through it.
+    - As user I want you to easily navigate to Main Menu.
+    - As user I want you to easily navigate to Drinks Menu.
+    - As user I want you to easily access Booking Table and successfully use it.
+    - As user I want you to easily access Contact Us and successfully use it.
+
+## Website Goals
 
 - Increase customer number.
 - Expand and grow as a business.
@@ -78,7 +104,7 @@ Wanted something nice and sleek.
 - [Book table!](documentation/booktable.png)
 - [Contact Us](documentation/contactus.png)
 
-### Laptop
+### Tablet
 - 
 - 
 - 
@@ -103,28 +129,31 @@ Wanted something nice and sleek.
 |x-large|>= 1200px|
 
 [Back to top](#gourmet-restaurant-portfolio-project-1)
+
 # Technology, Frameworks and Programs used.
 
-1. Languages
-    - [HTML](https://en.wikipedia.org/wiki/HTML5).
-    - [CSS](https://en.wikipedia.org/wiki/CSS).
+##  Languages
 
-2. Technology, Frameworks and programs used.
-    
-    - [Pexels](https://www.pexels.com/).
-        - Pexels was used on background picture of entire website.
+- [HTML](https://en.wikipedia.org/wiki/HTML5).
 
-    - [Google fonts](https://fonts.google.com/).
-        - Google fonts was used to pick and import fonts to my project.
-    
-    - [GitHub](https://github.com/).
-        - GitHub was used to store my source code by git add . git commit and git push.
+- [CSS](https://en.wikipedia.org/wiki/CSS).
 
-    - [Git](https://gitpod.io/).
-        - Git was used with GitPod to write down the code and push it to GitHub.
+## Frameworks and Programs used.
+
+- [Pexels](https://www.pexels.com/)    
+    - Pexels was used on background picture of entire website.
+
+- [Google fonts](https://fonts.google.com/)
+    - Google fonts was used to pick and import fonts to my project.
     
-    - [Balsamiq](https://balsamiq.com/).
-        - Balsamiq was used to design the website idea itself.
+- [GitHub](https://github.com/)
+    - GitHub was used to store my source code by git add . git commit and git push.
+
+- [Git](https://gitpod.io/)
+    - Git was used with GitPod to write down the code and push it to GitHub.
+    
+- [Balsamiq](https://balsamiq.com/)
+    - Balsamiq was used to design the website idea itself.
 
 # Features
 
@@ -180,7 +209,7 @@ Wanted something nice and sleek.
 
 
 
-
+[Back to top](#gourmet-restaurant-portfolio-project-1)
 
 # Testing
 
