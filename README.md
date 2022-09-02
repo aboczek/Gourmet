@@ -27,7 +27,21 @@ Wanted something nice and sleek.
  - Returning visitor goals:
     - As returning visitor I want you to easly navigate through website as the first time without any issue even if there were any changes implemented.
 
+## Site Goals
+
+- Increase customer number.
+- Expand and grow as a business.
+
+## Requirements
+
+- Easy access on all kind of  devices without graphical bugs.
+- Clear information about restaurants services.
+- Readable menu.
+- Simple ways to book table at the restaurant.
+- Simple ways to contact us if necessary.
+
 ## Design
+
  - Colors:
     - Colors used on the website are:
         - Gold #ffd700;
@@ -36,16 +50,16 @@ Wanted something nice and sleek.
         - White #ffffff;
 
             [<img src="assets/images/white.png" width="100"/>](white.png)
-        - #131313b0;
-
+        - #131313b0; 
+        
             [<img src="assets/images/greyopacity.png" width="100"/>](greyopacity.png)
 
     - Fonts:
-        - Fonts used on website are Cherish and Amethyst from google fonts. Cherish is used for logo itself and Amethyst for buttons.
+        - Fonts used on website are [Cherish](https://fonts.google.com/specimen/Cherish?query=cherish) and Amethyst from google fonts. Cherish is used for logo itself and [Amethysta](https://fonts.google.com/specimen/Amethysta?query=amet) for buttons.
         - Backup fonts is sans-serif if main font cannot be loaded for any reason.
 
     - Images:
-        - Image of restaurant used from pexels it is nice golden black colors which suit the website color design.
+        - Image of [restaurant](https://www.pexels.com/photo/alcohol-architecture-bar-beer-260922/) used from pexels it is nice golden black colors which suit the website color design.
 
 ## Wireframes
 
