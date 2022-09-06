@@ -11,13 +11,29 @@ font-family: 'Cherish', cursive; */
     border: none;
 }
 
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-image: url("../images/pexels-photo-260922.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    background-attachment: fixed;
+    font-family: 'Amethysta', sans-serif;
+    font-size: 1.6rem;
+
+    
+}
 
 
 /* Header */
 
 
 nav {
-    margin-top: 30px;
+    margin-top: 3rem;
     margin-left: auto;
     margin-right: auto;
     height: 15vh;
@@ -30,49 +46,30 @@ header a, menu li a {
 
 header h1 {
     text-align: center;
-    font-size: 900%;
-    font-family: 'Cherish', cursive, sans-serif;
+    font-size: 15rem;
+    font-family: 'Cherish', cursive;
 }
 
 
 #menu {
     text-align: center;
-    margin-top: 30px;
+    margin-top: 3rem;
     margin-left: auto;
     margin-right: auto;
 }
 
 #menu li {
-    font-size: 130%;
+    font-size: 2rem;
     display: inline-block;
-    width: 200px;
-    border: 2px solid white;
-    border-radius: 10px;
+    width: 20rem;
+    border: 0.2rem solid white;
+    border-radius: 1rem;
 
 }
 
 #menu li:hover {
     border-color: rgb(255, 215, 0);    
 }
-
-#menu li a {
-    font-family: 'Amethysta', sans-serif;
-}
-
-
-
-/* background */
-
-body {
-    background-image: url("../images/pexels-photo-260922.webp");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    height: 80vh;
-    background-attachment: fixed;
-    font-family: 'Amethysta', serif;
-}
-
 
 
 /* main part of body */
@@ -81,18 +78,18 @@ body {
 #index h2 {
     text-align: center;
     color: rgb(255, 255, 255);
-    margin-top: 150px;
+    margin-top: 15rem;
     margin-left: auto;
     margin-right: auto;
-    font-size: 30px;
-    font-family: 'Amethysta', serif;
+    font-size: 3rem;
+    font-family: 'Amethysta', sans-serif;
 }
 
 /* footer */
 
 footer {
     height: 5vh;
-    margin: 10px auto;
+    margin: 1rem auto;
 }
 
 footer p {
@@ -100,7 +97,7 @@ footer p {
     position: fixed;
     bottom: 0;
     left: 0;
-    width: 100%;
+    width: 10rem;
     text-align: center;
 }
 
@@ -112,15 +109,15 @@ footer p {
     align-items: stretch;
     flex-direction: column;
     color: rgb(255, 255, 255);
-    padding: 20px 20px;
-    margin-top: 50px;
+    padding: 2rem 2rem;
+    margin-top: 5rem;
     margin-left: auto;
     margin-bottom: auto;
     margin-right: auto;
-    width: 700px;
+    width: 70rem;
     background-color: rgba(19, 19, 19, 0.69);
-    backdrop-filter: blur(10px);
-    border-radius: 25px;
+    backdrop-filter: blur(1rem);
+    border-radius: 2.5rem;
 }
 
 
@@ -134,19 +131,19 @@ footer p {
 
 .menu-item * {
     list-style-type: none;
-    margin: 5px 0;
+    margin: 0.5rem 0;
 }
 
 .menu-item p {
     color: rgb(255, 215, 0);
     font-weight: 200;
-    font-size: 14px;
+    font-size: 1.4rem;
     flex-grow: 0;
-    padding-bottom: 5px;
+    padding-bottom: 0.5rem;
 }
 
 .menu-item ul li {
-    font-size: 20px;
+    font-size: 2rem;
     font-weight: 500;
 }
 
@@ -155,7 +152,7 @@ footer p {
 }
 
 .menu-head {
-    font-size: 26px;
+    font-size: 2.6rem;
 }
 
 /* drink menu */
@@ -165,36 +162,36 @@ footer p {
     align-items: stretch;
     flex-direction: column;
     color: rgb(255, 255, 255);
-    padding: 20px 20px;
-    margin-top: 10px;
+    padding: 2rem 2rem;
+    margin-top: 1rem;
     margin-left: auto;
     margin-bottom: auto;
     margin-right: auto;
     flex-wrap: wrap;
-    width: 700px;
+    width: 70rem;
     background-color: rgba(19, 19, 19, 0.692);
-    backdrop-filter: blur(10px);
-    border-radius: 25px;
+    backdrop-filter: blur(1rem);
+    border-radius: 2.5rem;
 }
 
 .cocktail-menu {
-    font-size: 26px;
-    margin-bottom: 5px;
+    font-size: 2.6rem;
+    margin-bottom: 0.5rem;
     
 }
 
 .cocktail-item * {
     list-style-type: none;
-    margin: 5px 0;
+    margin: 0.5rem 0;
 }
 
 .cocktail-item li {
-    font-size: 20px;
+    font-size: 2rem;
     font-weight: 500;
 }
 
 .cocktail-item div {
-    font-size: 18px;
+    font-size: 1.8rem;
 }
 
 /* book table */
@@ -205,27 +202,27 @@ footer p {
 }
 
 .booktable h2 {
-    font-size: 25px;
+    font-size: 2.5rem;
 }
 
 .booktable form {
     color: rgb(255, 255, 255);
-    font-size: 20px;
+    font-size: 2rem;
     background: rgba(19, 19, 19, 0.692);
-    backdrop-filter: blur(10px);
-    margin-bottom: 20px;
+    backdrop-filter: blur(1rem);
+    margin-bottom: 2rem;
     margin-left: auto;
     margin-right: auto;
-    width: 450px;
-    height: 550px;
+    width: 45rem;
+    height: 55rem;
     display: block;
-    border-radius: 20px;
+    border-radius: 2rem;
 }
 
 input[type=submit] {
-    margin: 5px;
-    width: 60px;
-    height: 25px;
+    margin: 0.5rem;
+    width: 6rem;
+    height: 2.5rem;
 }
 
 
@@ -239,37 +236,37 @@ input[type=submit] {
 
 .contact form {
     color: rgb(255, 255, 255);
-    font-size: 20px;
+    font-size: 2rem;
     background: rgba(19, 19, 19, 0.692);
-    backdrop-filter: blur(10px);
-    margin-bottom: 20px;
+    backdrop-filter: blur(1rem);
+    margin-bottom: 2rem;
     margin-left: auto;
     margin-right: auto;
-    width: 450px;
-    height: 480px;
+    width: 45rem;
+    height: 48rem;
     display: block;
-    border-radius: 20px;
+    border-radius: 2rem;
 }
 
 .aboutus {
     color: rgb(255, 255, 255);
     background: rgba(19, 19, 19, 0.692);
-    backdrop-filter: blur(10px);
-    width: 450px;
+    backdrop-filter: blur(1rem);
+    width: 45rem;
     display: flex;
     justify-content: center;
     flex-direction: column;
-    margin-bottom: 100px;
+    margin-bottom: 10rem;
     margin-left: auto;
     margin-right: auto;
-    padding: 10px;
-    border-radius: 20px;
+    padding: 1rem;
+    border-radius: 2rem;
 }
 
 .aboutus p {
-    margin-top: 5px;
-    font-size: 18px;
-    margin-bottom: 32px;
+    margin-top: 0.5rem;
+    font-size: 1.8rem;
+    margin-bottom: 3.2rem;
 }
 /* Portable devices */
 
