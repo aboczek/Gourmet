@@ -40,14 +40,14 @@ Wanted something nice and sleek.
 
 ## User Stories
  - User Story
-    - As first time visiting website I want you to understand what is the website about.
-    - As first time visiting website I want you to navigate easily through the website.
+    - As user visiting website I want you to understand what is the website about.
+    - As user visiting website I want you to navigate easily through the website.
     - As user I want you to see landing page and navigate through it.
     - As user I want you to easily navigate to Main Menu.
     - As user I want you to easily navigate to Drinks Menu.
     - As user I want you to easily access Booking Table and successfully use it.
     - As user I want you to easily access Contact Us and successfully use it.
-    - As returning visitor I want you to easly navigate through website as the first time without any issue even if there were any changes implemented. 
+    - As user returning I want you to easly navigate through website as the first time without any issue even if there were any changes implemented. 
 
     
 
@@ -132,9 +132,9 @@ Wanted something nice and sleek.
 
 ##  Languages
 
-- [HTML](https://en.wikipedia.org/wiki/HTML5).
+- [HTML](https://en.wikipedia.org/wiki/HTML5)
 
-- [CSS](https://en.wikipedia.org/wiki/CSS).
+- [CSS](https://en.wikipedia.org/wiki/CSS)
 
 ## Frameworks and Programs used.
 
