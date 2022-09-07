@@ -13,6 +13,7 @@ font-family: 'Cherish', cursive; */
 
 :root {
     --white: #ffffff;
+    --gold: #ffd700;
 }
 
 html {
@@ -41,9 +42,9 @@ nav {
     height: 15vh;
 }
 
-header a, menu li a {
+header a, #menu li a {
     text-decoration: none;
-    color: var(--white)
+    color: var(--white);
 }
 
 header h1 {
@@ -70,7 +71,7 @@ header h1 {
 }
 
 #menu li:hover {
-    border-color: rgb(255, 215, 0);    
+    border-color: var(--gold);   
 }
 
 
@@ -136,7 +137,7 @@ footer p {
 }
 
 .menu-item p {
-    color: rgb(255, 215, 0);
+    color: var(--gold);
     font-weight: 200;
     font-size: 1.4rem;
     flex-grow: 0;
