@@ -11,6 +11,10 @@ font-family: 'Cherish', cursive; */
     border: none;
 }
 
+:root {
+    --white: #ffffff;
+}
+
 html {
     font-size: 62.5%;
 }
@@ -24,8 +28,6 @@ body {
     background-attachment: fixed;
     font-family: 'Amethysta', sans-serif;
     font-size: 1.6rem;
-
-    
 }
 
 
@@ -41,7 +43,7 @@ nav {
 
 header a, menu li a {
     text-decoration: none;
-    color: rgb(255, 255, 255);
+    color: var(--white)
 }
 
 header h1 {
@@ -77,12 +79,11 @@ header h1 {
 
 #index h2 {
     text-align: center;
-    color: rgb(255, 255, 255);
+    color: var(--white);
     margin-top: 15rem;
     margin-left: auto;
     margin-right: auto;
     font-size: 3rem;
-    font-family: 'Amethysta', sans-serif;
 }
 
 /* footer */
@@ -93,7 +94,7 @@ footer {
 }
 
 footer p {
-    color: rgb(255, 255, 255);
+    color: var(--white);
     position: fixed;
     bottom: 0;
     left: 0;
@@ -108,7 +109,7 @@ footer p {
     display: flex;
     align-items: stretch;
     flex-direction: column;
-    color: rgb(255, 255, 255);
+    color: var(--white);
     padding: 2rem 2rem;
     margin-top: 5rem;
     margin-left: auto;
@@ -161,7 +162,7 @@ footer p {
     display: flex;
     align-items: stretch;
     flex-direction: column;
-    color: rgb(255, 255, 255);
+    color: var(--white);
     padding: 2rem 2rem;
     margin-top: 1rem;
     margin-left: auto;
@@ -206,7 +207,7 @@ footer p {
 }
 
 .booktable form {
-    color: rgb(255, 255, 255);
+    color: var(--white);
     font-size: 2rem;
     background: rgba(19, 19, 19, 0.692);
     backdrop-filter: blur(1rem);
@@ -235,7 +236,7 @@ input[type=submit] {
 }
 
 .contact form {
-    color: rgb(255, 255, 255);
+    color: var(--white);
     font-size: 2rem;
     background: rgba(19, 19, 19, 0.692);
     backdrop-filter: blur(1rem);
@@ -249,7 +250,7 @@ input[type=submit] {
 }
 
 .aboutus {
-    color: rgb(255, 255, 255);
+    color: var(--white);
     background: rgba(19, 19, 19, 0.692);
     backdrop-filter: blur(1rem);
     width: 45rem;
