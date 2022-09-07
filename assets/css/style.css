@@ -65,7 +65,7 @@ header h1 {
     font-size: 2rem;
     display: inline-block;
     width: 20rem;
-    border: 0.2rem solid white;
+    border: 0.2rem solid var(--white);
     border-radius: 1rem;
 
 }

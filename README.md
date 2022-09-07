@@ -6,7 +6,7 @@ This is protfolio project about Italian restaurant called Gourmet, it is designe
 
 ## Table of content:
 
-- [Motivation](#Motivation:)
+- [Motivation](#motivation)
 - [User Experience](#user-experience-ux)
     - [User Stories](#user-stories)
     - [Website Goals](#website-goals)
@@ -39,19 +39,17 @@ Wanted something nice and sleek.
 # User Experience (UX)
 
 ## User Stories
- - First time visitor goals:
+ - User Story
     - As first time visiting website I want you to understand what is the website about.
     - As first time visiting website I want you to navigate easily through the website.
-
- - Returning visitor goals:
-     - As returning visitor I want you to easly navigate through website as the first time without any issue even if there were any changes implemented. 
-
-- User goals 
     - As user I want you to see landing page and navigate through it.
     - As user I want you to easily navigate to Main Menu.
     - As user I want you to easily navigate to Drinks Menu.
     - As user I want you to easily access Booking Table and successfully use it.
     - As user I want you to easily access Contact Us and successfully use it.
+    - As returning visitor I want you to easly navigate through website as the first time without any issue even if there were any changes implemented. 
+
+    
 
 ## Website Goals
 
