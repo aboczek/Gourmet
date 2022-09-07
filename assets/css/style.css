@@ -84,6 +84,7 @@ header h1 {
     margin-top: 15rem;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 35rem;
     font-size: 3rem;
 }
 
@@ -157,6 +158,10 @@ footer p {
     font-size: 2.6rem;
 }
 
+#food {
+    margin-bottom: 25rem;
+}
+
 /* drink menu */
 
 .cocktails {
@@ -196,10 +201,14 @@ footer p {
     font-size: 1.8rem;
 }
 
+#drink {
+    margin-bottom: 25rem;
+}
+
 /* book table */
 
 .booktable {
-    margin: 0 auto;
+    margin: 40rem auto;
     text-align: center;
 }
 
@@ -231,17 +240,18 @@ input[type=submit] {
 
 /* contact us */
 
-.contact {
+#contact {
     margin: 0 auto;
     text-align: center;
 }
 
-.contact form {
+#contact form {
     color: var(--white);
     font-size: 2rem;
     background: rgba(19, 19, 19, 0.692);
     backdrop-filter: blur(1rem);
-    margin-bottom: 2rem;
+    margin-bottom: 25rem;
+    margin-top: 50rem;
     margin-left: auto;
     margin-right: auto;
     width: 45rem;
@@ -249,6 +259,8 @@ input[type=submit] {
     display: block;
     border-radius: 2rem;
 }
+
+/* about us*/
 
 .aboutus {
     color: var(--white);
@@ -263,6 +275,7 @@ input[type=submit] {
     margin-right: auto;
     padding: 1rem;
     border-radius: 2rem;
+    text-align: center;
 }
 
 .aboutus p {
