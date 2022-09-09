@@ -224,26 +224,30 @@ footer p {
     margin-bottom: 2rem;
     margin-left: auto;
     margin-right: auto;
-    width: 45rem;
+    width: 40rem;
     height: 55rem;
-    display: block;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2rem;
     border-radius: 2rem;
 }
 
-input[type=submit] {
+button {
     margin: 0.5rem;
-    width: 6rem;
+    width: 9rem;
     height: 2.5rem;
 }
 
-
+input {
+    height: 2rem;
+}
 
 /* contact us */
 
 #contact {
     margin: 0 auto;
     text-align: center;
-    width: 100%;
 }
 
 #contact form {
@@ -255,10 +259,14 @@ input[type=submit] {
     margin-top: 50rem;
     margin-left: auto;
     margin-right: auto;
-    width: 45rem;
-    height: 48rem;
+    width: 40rem;
+    height: 35rem;
     display: block;
     border-radius: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5rem;
 }
 
 /* about us*/
