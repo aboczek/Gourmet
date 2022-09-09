@@ -236,7 +236,8 @@ footer p {
 button {
     margin: 0.5rem 15rem;
     width: 9rem;
-    height: 2.5rem;
+    height: 3rem;
+    border-radius: 5px;
 }
 
 input {
