@@ -47,7 +47,7 @@ Wanted something nice and sleek.
     - As user I want you to easily navigate to Drinks Menu.
     - As user I want you to easily access Booking Table and successfully use it.
     - As user I want you to easily access Contact Us and successfully use it.
-    - As user returning I want you to easly navigate through website as the first time without any issue even if there were any changes implemented. 
+    - As user returning I want you to easily navigate through website as the first time without any issue even if there were any changes implemented. 
 
     
 
