@@ -53,7 +53,7 @@
     </section>
     <section id="food">
         <div class="flex">
-            <div class="menu-head center">Starters</div>
+            <div class="menu-head center"><h2>Starters</h2></div>
             <div class="menu-item">
                 <ul class="price">
                     <li>Soup of the day</li>
@@ -85,7 +85,7 @@
             </div>
         </div>
         <div class="flex">
-            <div class="menu-head center">Main Course</div>
+            <div class="menu-head center"><h2>Main Course</h2></div>
             <div class="menu-item">
                 <ul class="price">
                     <li>Classic Carbonara</li>
@@ -135,7 +135,7 @@
             </div>
         </div>
         <div class="flex">
-            <div class="menu-head center">Desserts</div>
+            <div class="menu-head center"><h2>Desserts</h2></div>
             <div class="menu-item">
                 <ul class="price">
                     <li>Maritozzi with mint and Chocolate Coconut Gelato</li>
@@ -174,9 +174,10 @@
 
     <section id="drink">
         <div class="cocktails">
-            <div class="center cocktail-menu">Cocktails</div>
+            <div class="center cocktail-menu"><h2>Cocktails</h2></div>
             <div class="cocktail-item">
-                <ul class="center">All cocktails €10.00</ul>
+                <div class="center">All cocktails €10.00</div>
+                <ul>
                 <li>Pornstar Martini</li>
                 <li>Strawberry Daiquiri</li>
                 <li>Mojito</li>
@@ -186,7 +187,8 @@
                 <li>Bellini</li>
                 <li>Hugo</li>
                 <li>Americano</li>
-                <ul class="center"><strong><i>make any on special request</i></strong></ul>
+                </ul>
+                <p class="center"><strong><i>make any on special request</i></strong></p>
             </div>
             <div class="center cocktail-menu">Beer</div>
             <div class="cocktail-item">
@@ -274,8 +276,10 @@
                     <input type="number" id="numberofguests" placeholder="Number of Guests" required>
                 </div>
                 <div id="date-time">
-                    <input type="date" id="bookingdate" required>
-                    <input type="time" id="bookingtime" required>
+                    <label>
+                    <input type="date" id="bookingdate" required></label>
+                    <label>
+                    <input type="time" id="bookingtime" required></label>
                 </div>
                 <textarea id="yourcomment" name="comments" cols="50" rows="6"
                     placeholder="Special Requests here"></textarea>
@@ -303,10 +307,7 @@
                 width="550" height="450" style="border:0;" allowfullscreen="" loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
-
-
     </section>
-
 
     <footer>
         <p>Made by Adam Boczek.</p>
