@@ -19,7 +19,7 @@ font-family: 'Cherish', cursive; */
 html {
     font-size: 62.5%;
     scroll-behavior: smooth;
-    scroll-padding-top: 5rem;
+    scroll-padding-top: 7rem;
 }
 
 body {
@@ -245,7 +245,7 @@ button {
     margin: 0.5rem 15rem;
     width: 10rem;
     height: 3rem;
-    border-radius: 5px;
+    border-radius: 0.5rem;
 }
 
 input {
