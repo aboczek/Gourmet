@@ -117,7 +117,7 @@ footer p {
     margin-left: auto;
     margin-bottom: auto;
     margin-right: auto;
-    width: 70rem;
+    width: 100rem;
     background-color: rgba(19, 19, 19, 0.69);
     backdrop-filter: blur(1rem);
     border-radius: 2.5rem;
