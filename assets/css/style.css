@@ -66,12 +66,14 @@ header h1 {
     z-index: 9999999;
 }
 
+
 #menu li {
     font-size: 2rem;
     display: inline-block;
     width: 20rem;
     border: 0.2rem solid var(--white);
     border-radius: 1rem;
+    backdrop-filter: blur(1rem);
 
 }
 
