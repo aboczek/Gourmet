@@ -78,7 +78,7 @@ header h1 {
 /* main part of body */
 
 
-#index h2 {
+#welcome h2 {
     text-align: center;
     color: var(--white);
     margin-top: 15rem;
