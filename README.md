@@ -246,5 +246,6 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 - [Delish.com](https://www.delish.com/) for food ideas!
 - [Lacucinaitaliana.com](https://www.lacucinaitaliana.com/) for food ideas!
 - [bbcgoodfood.com](https://www.bbcgoodfood.com/) for drinks ingredients
+- [Google Maps](https://www.google.com/maps/) for google maps
 
 [Back to top](#gourmet-restaurant-portfolio-project-1)
