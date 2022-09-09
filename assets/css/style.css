@@ -225,23 +225,42 @@ footer p {
     margin-left: auto;
     margin-right: auto;
     width: 40rem;
-    height: 55rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    height: 43rem;
     padding: 2rem;
     border-radius: 2rem;
 }
 
 button {
     margin: 0.5rem 15rem;
-    width: 9rem;
+    width: 10rem;
     height: 3rem;
     border-radius: 5px;
 }
 
 input {
-    height: 2rem;
+    height: 3rem;
+    margin: 1rem;
+    border-radius: 3px;
+}
+
+textarea {
+    border-radius: 3px;
+}
+
+#fullname, #date-time {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+#tel-email-number {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#date-time {
+    width: 100%;
+    margin-bottom: 4px;
 }
 
 /* contact us */
@@ -276,7 +295,7 @@ input {
     color: var(--white);
     background: rgba(19, 19, 19, 0.692);
     backdrop-filter: blur(1rem);
-    width: 45rem;
+    width: 50rem;
     display: flex;
     justify-content: center;
     flex-direction: column;
