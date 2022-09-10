@@ -312,7 +312,15 @@ textarea {
 
 /* Portable devices */
 
-          
+@media screen and (max-width: 996px) {
+    .flex {
+        width: 100%;
+    }
+
+    .cocktails {
+        width: 100%;
+    }
+}    
 
 
 
