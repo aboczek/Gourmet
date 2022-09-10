@@ -422,6 +422,13 @@ textarea {
     iframe {
         width: auto;
     }
+
+    header h1 {
+        text-align: center;
+        font-size: 13rem;
+        font-family: 'Cherish', cursive;
+        margin-right: 2rem;
+    }
 }
 
 
