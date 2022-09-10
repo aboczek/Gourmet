@@ -48,7 +48,8 @@
         <h2>
             Welcome to Our Restaurant.
         </h2>
-        <h2 id="margin">We hope You enjoy Your Time with Us.
+        <h2 id="margin">
+            We hope You enjoy Your Time with Us.
         </h2>
     </section>
     <section id="food">
@@ -309,14 +310,15 @@
                     <input type="number" id="numberofguests" placeholder="Number of Guests" required>
                 </div>
                 <div id="date-time">
-                    <label>
-                        <input type="date" id="bookingdate" required></label>
-                    <label>
-                        <input type="time" id="bookingtime" required></label>
+                    <label for="bookin-gdate"></label>
+                    <input type="date" id="booking-date" placeholder="Date" required>
+                    <label for="booking-time"></label>
+                    <input type="time" id="booking-time" placeholder="Time" required>
                 </div>
                 <textarea id="yourcomment" name="comments" cols="50" rows="6"
                     placeholder="Special Requests here"></textarea>
-                <button type="submit" value="Book!" aria-label="Book a table!"><strong>Book a table!</strong></button>
+                <button type="submit" value="Book!" aria-label="Book a table!"><strong>Book a
+                        table!</strong></button>
             </form>
         </div>
     </section>
