@@ -323,5 +323,13 @@ textarea {
 }    
 
 
+@media screen and (max-width: 768px) {
+    .flex {
+        width: 100%;
+    }
 
+    .cocktails {
+        width: 100%;
+    }
+}
 
