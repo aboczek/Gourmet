@@ -400,6 +400,7 @@ textarea {
 
     .booktable {
         width: 90%;
+        margin-left: 1rem;
     }
     
     .booktable form {
