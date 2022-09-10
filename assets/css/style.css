@@ -312,6 +312,30 @@ textarea {
 
 /* Portable devices */
 
+@media (max-width: 1024px) {
+    .flex {
+        width: 90%;
+    }
+
+    .cocktails {
+        width: 90%;
+    }
+
+    .aboutus {
+        width: 90%;
+    }
+
+    .booktable {
+        width: 90%;
+    }
+
+    iframe {
+        width: auto;
+    }
+
+    
+}    
+
 @media (max-width: 996px) {
     .flex {
         width: 90%;
@@ -408,6 +432,11 @@ textarea {
 
     .booktable {
         width: 90%;
+    }
+
+    .booktable form {
+        display: grid;
+        grid-template-columns: 1fr;
     }
 
     iframe {
