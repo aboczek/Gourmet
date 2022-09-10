@@ -250,7 +250,6 @@ footer p {
 }
 
 button {
-    margin: 0.5rem 15rem;
     width: 10rem;
     height: 3rem;
     border-radius: 0.5rem;
@@ -264,11 +263,6 @@ input {
 
 textarea {
     border-radius: 3px;
-}
-
-#fullname, #date-time {
-    display: grid;
-    grid-template-columns: auto auto;
 }
 
 #tel-email-number {
@@ -407,56 +401,26 @@ textarea {
     .booktable {
         width: 90%;
     }
-
-    iframe {
-        width: auto;
-    }
-
-}
-
-@media (max-width: 576px) {
-    .flex {
-        width: 90%;
-        margin-left: 0;
-        margin-right: 0;
-    }
-
-    .cocktails {
-        width: 90%;
-        margin-left: 0;
-        margin-right: 0;
-    }
-    .aboutus {
-        width: 90%;
-    }
-
-    .booktable {
-        width: 90%;
+    
+    .booktable form {
+        height: 48rem;
     }
 
     .booktable form {
-        display: grid;
-        grid-template-columns: 1fr;
+        width: 90%;
     }
+
+     div#fullname {
+        width: auto
+     }
+
+     textarea {
+        width: 80%;
+     }
 
     iframe {
         width: auto;
     }
 }
-/* @media screen and (min-width: 320px) and (max-width: 575px) {
-    .flex {
-        width: 100%;
-        margin-left: 0;
-        margin-right: 0;
 
-    }
-
-    .cocktails {
-        width: 100%;
-        margin-left: 0;
-        margin-right: 0;
-
-    }
-
-} */
 
