@@ -312,7 +312,7 @@ textarea {
 
 /* Portable devices */
 
-@media screen and (min-width: 996px) and (max-width 1999px) {
+@media (max-width: 996px) {
     .flex {
         width: 100%;
     }
@@ -323,7 +323,7 @@ textarea {
 }    
 
 
-@media screen (min-width: 768px) and (max-width: 995px) {
+@media (max-width: 768px) {
     .flex {
         width: 100%;
         margin-left: 0;
@@ -339,7 +339,7 @@ textarea {
     }
 }
 
-@media screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 576px) {
     .flex {
         width: 100%;
         margin-left: 0;
@@ -356,7 +356,7 @@ textarea {
 
 }
 
-@media screen and (min-width: 320px) and (max-width: 575px) {
+/* @media screen and (min-width: 320px) and (max-width: 575px) {
     .flex {
         width: 100%;
         margin-left: 0;
@@ -371,5 +371,5 @@ textarea {
 
     }
 
-}
+} */
 
