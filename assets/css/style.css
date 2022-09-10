@@ -212,6 +212,14 @@ footer p {
     font-size: 1.8rem;
 }
 
+.cocktail-item p {
+    color: var(--gold);
+    font-weight: 200;
+    font-size: 1.4rem;
+    flex-grow: 0;
+    padding-bottom: 0.5rem;
+}
+
 #drink {
     margin-bottom: 25rem;
 }
