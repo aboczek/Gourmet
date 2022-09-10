@@ -306,7 +306,10 @@ textarea {
 
 /* Portable devices */
 
+
+/* Large Devices/Desktops */
 @media (max-width: 1024px) {
+
     .flex {
         width: 90%;
     }
@@ -327,10 +330,10 @@ textarea {
         width: auto;
     }
 
-    
 }    
 
-@media (max-width: 996px) {
+/* @media (max-width: 996px) {
+
     .flex {
         width: 90%;
     }
@@ -351,16 +354,15 @@ textarea {
         width: auto;
     }
 
-    
-}    
+}     */
 
 
 @media (max-width: 768px) {
+
     .flex {
         width: 90%;
         margin-left: 0;
         margin-right: 0;
-
     }
 
     .cocktails {
@@ -383,6 +385,7 @@ textarea {
 }
 
 @media (max-width: 576px) {
+
     .flex {
         width: 90%;
         margin-left: 0;
@@ -394,13 +397,14 @@ textarea {
         margin-left: 0;
         margin-right: 0;
     }
+
     .aboutus {
         width: 90%;
     }
 
     .booktable {
         width: 90%;
-        margin-left: 1rem;
+        margin-left: 0.75rem;
     }
     
     .booktable form {
