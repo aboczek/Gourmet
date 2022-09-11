@@ -283,11 +283,11 @@ textarea {
 .thank-you {
     color: var(--white);
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    flex-direction: row-reverse;
     text-align: center;
-    margin: 5rem auto;
-    width: 45rem;
+    margin: 20rem auto;
+    width: 80rem;
+    height: 60rem;
     background-color: var(--bg);
     backdrop-filter: blur(1rem);
     border-radius: 2rem;
@@ -300,6 +300,14 @@ textarea {
 
 .thank-you h2 {
     padding: 2rem;
+}
+
+.thank-you img {
+    width: 30rem;
+    height: 30rem;
+    object-fit: cover;
+    border-radius: 20px;
+    justify-content: space-between;
 }
 
 /* about us*/
