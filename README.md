@@ -220,7 +220,7 @@ Testing was done in W3C Markup Validator and W3C CSS Validator Services to make 
     - Website has been tested with Lighthouse, [Screenfly](https://screenfly.org/) and couple of mobile devices.
 
 3. Known bugs.
-    - Date and Time input is blank on mobile phones but not in Previews or Live website with **Right Click** Inspect.
+    - Date and Time input is blank on mobile phones but not in Previews or Live website with Right Click **Inspect**.
 
 
 
