@@ -283,11 +283,11 @@ textarea {
 .thank-you {
     color: var(--white);
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: column;
     text-align: center;
     margin: 20rem auto;
-    width: 80rem;
-    height: 60rem;
+    width: 40rem;
+    height: 30rem;
     background-color: var(--bg);
     backdrop-filter: blur(1rem);
     border-radius: 2rem;
@@ -299,25 +299,28 @@ textarea {
 }
 
 .thank-you h2 {
+    font-size: 3rem;
     padding: 2rem;
 }
 
-.thank-you h2, p {
+.thank-you a {
     display: flex;
     flex-direction: column;
-
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+    color: var(--white);
+    background-color: var(--gold);
+    width: 10rem;
+    height: 6rem;
+    margin: 2rem auto;
+    border-radius: 1rem;
+    font-size: 1.5rem;
 }
 
-.thank-you img {
-    width: 30rem;
-    height: 50rem;
-    object-fit: cover;
-    justify-content: space-between;
-    padding: 5rem 2rem;
+.thank-you a:hover {
+    color: var(--bg);
 }
-
-
-
 
 /* about us*/
 
