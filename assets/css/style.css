@@ -256,7 +256,7 @@ button {
     border-radius: 0.5rem;
 }
 
-input {
+form input {
     height: 3rem;
     margin: 1rem;
     border-radius: 3px;
@@ -331,6 +331,9 @@ textarea {
         width: auto;
     }
 
+    #hamburger-menu {
+        display: none;
+    }
 }    
 
 /* @media (max-width: 996px) {
@@ -383,6 +386,10 @@ textarea {
 
     iframe {
         width: auto;
+    }
+
+    #hamburger-menu {
+        display: none;
     }
 }
 
@@ -439,13 +446,11 @@ textarea {
         display: none;
     }
 
-    #hamburger-menu {
-        display: none;
-        
-    }
-
-
 /* Hamburger Menu */
+
+    #hamburger {
+        display: none;
+    }
 
     #hamburger-menu {
         background-color: var(--ham-bg);
@@ -467,10 +472,20 @@ textarea {
         padding-left: 1rem;
     }
 
-    .hamburger {
-        height: 4rem;
-        margin-right: 2rem;
+    #hamburger-menu label {
+        font-size: 3rem;
+        padding: 1rem 2rem;
+        position: relative;
+        color: var(--white);
     }
+
+    #hamburger-menu label:hover {
+    background: #ffd700;
+    }
+
+    
+
+    
 }
 
 
