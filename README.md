@@ -100,7 +100,7 @@ Wanted something nice and sleek.
 - [Main Menu]()
 - [Drinks]()
 - [Book table!]()
-- [Contact Us]()
+- [About Us]()
 
 ### Tablet
 - 
