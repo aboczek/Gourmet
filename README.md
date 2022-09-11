@@ -214,13 +214,13 @@ Wanted something nice and sleek.
 Testing was done in W3C Markup Validator and W3C CSS Validator Services to make sure there is no markup errors in syntax.
 
 1. Testing on website.
-    - placeholder for more info
+    - Website has been tested in Lighthouse, [Screenfly](https://screenfly.org/) and my own PC.
 
 2. Testing on portable devices.
-    - placeholder for more info
+    - Website has been tested with Lighthouse, [Screenfly](https://screenfly.org/) and couple of mobile devices.
 
 3. Known bugs.
-    - none so far :)
+    - Date and Time input is blank on mobile phones but not in Previews or Live website with **Right Click** Inspect.
 
 
 
