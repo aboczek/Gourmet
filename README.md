@@ -96,11 +96,11 @@ Wanted something nice and sleek.
 ## Wireframes
 
 ### Desktop
-- [Homepage](documentation/homepage.png)
-- [Main Menu](documentation/mainmenu.png)
-- [Drinks](documentation/drinks.png)
-- [Book table!](documentation/booktable.png)
-- [Contact Us](documentation/contactus.png)
+- [Homepage]()
+- [Main Menu]()
+- [Drinks]()
+- [Book table!]()
+- [Contact Us]()
 
 ### Tablet
 - 
@@ -153,6 +153,9 @@ Wanted something nice and sleek.
 - [Balsamiq](https://balsamiq.com/)
     - Balsamiq was used to design the website idea itself.
 
+- [screenfly](https://screenfly.org/)
+    - Testing My website on it.
+
 # Features
 
 1. Responsive on all devices.
@@ -162,7 +165,7 @@ Wanted something nice and sleek.
 
 ## Navigation bar
 
- - Navigation bar will be mostly the same through out the website except for buttons go in column on lower devices. I have decided to go with them instead of hamburger menu because they look nice and would like to keep it the same and be unique.
+ - Navigation bar will be mostly the same through out the website except for buttons they will be replaced with hamburger menu on mobile devices.
 
 
     - Small devices.
@@ -197,7 +200,7 @@ Wanted something nice and sleek.
 
     **picture**
 
-- Possible popup thank you or table has been booked on forms.
+- Thank you Website for Booking a Table!.
 
     **picture**
 
