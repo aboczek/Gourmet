@@ -439,6 +439,12 @@ textarea {
         display: none;
     }
 
+    #hamburger-menu {
+        display: none;
+        
+    }
+
+
 /* Hamburger Menu */
 
     #hamburger-menu {
@@ -451,13 +457,19 @@ textarea {
         display: flex;
         flex-direction: row;
         justify-content: space-between;
+        
     }
 
     #logo-burger {
         color: var(--white);
         font-family: Cherish, cursive;
         font-size: 5rem;
-        margin-left: 1rem;
+        padding-left: 1rem;
+    }
+
+    .hamburger {
+        height: 4rem;
+        margin-right: 2rem;
     }
 }
 
