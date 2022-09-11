@@ -475,13 +475,38 @@ textarea {
     #hamburger-menu label {
         font-size: 3rem;
         padding: 1rem 2rem;
-        position: relative;
         color: var(--white);
     }
 
     #hamburger-menu label:hover {
-    background: #ffd700;
+    background: var(--gold);
     }
+
+    #ham-nav {
+        position: relative;
+        display: inline-block;
+        list-style-type: none;
+        width: 100%;
+        margin-top: 8rem;
+        font-size: 2rem;
+        background-color: var(--ham-bg);
+    }
+
+    #ham-nav li {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 1rem;
+    }
+
+
+    #ham-nav li a {
+        font-size: 2rem;
+    }
+
+    
 
     
 
