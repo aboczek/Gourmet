@@ -305,7 +305,19 @@ textarea {
     margin-bottom: 3.2rem;
 }
 
+/* Hiding hamburger menu and its content */
 
+#hamburger-menu {
+    display: none;
+}
+
+#ham-nav {
+    display: none;
+}
+
+#ham-menu input {
+    display: none;
+}
 
 /* Portable devices */
 
@@ -333,7 +345,15 @@ textarea {
         width: auto;
     }
 
-    #ham-menu {
+    #hamburger-menu {
+        display: none;
+    }
+
+    #ham-nav {
+        display: none;
+    }
+
+    #ham-menu input {
         display: none;
     }
 }
@@ -390,7 +410,15 @@ textarea {
         width: auto;
     }
 
-    #ham-menu {
+    #hamburger-menu {
+        display: none;
+    }
+
+    #ham-nav {
+        display: none;
+    }
+
+    #ham-menu input {
         display: none;
     }
 }
