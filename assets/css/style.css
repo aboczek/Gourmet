@@ -230,7 +230,10 @@ footer p {
 /* book table */
 
 .booktable {
-    margin: 73rem auto;
+    margin-top: 20rem;
+    margin-bottom: 73rem;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
 }
 
