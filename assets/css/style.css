@@ -448,6 +448,9 @@ textarea {
         position: fixed;
         backdrop-filter: blur(1rem);
         z-index: 9999995;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
     }
 
     #logo-burger {
