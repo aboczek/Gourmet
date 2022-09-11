@@ -307,7 +307,7 @@ textarea {
 /* Portable devices */
 
 
-/* Large Devices/Desktops */
+/* Large Devices aka Desktops */
 @media (max-width: 1024px) {
 
     .flex {
@@ -356,6 +356,7 @@ textarea {
 
 }     */
 
+/* Medium Devices aka Tablets */
 
 @media (max-width: 768px) {
 
@@ -383,6 +384,8 @@ textarea {
         width: auto;
     }
 }
+
+/* Small Devices aka Mobile Phones */
 
 @media (max-width: 576px) {
 
