@@ -439,8 +439,13 @@ textarea {
         display: none;
     }
 
+/* Hamburger Menu */
+
     .hamburger-menu {
-        background-color: var();
+        background-color: var(--ham-bg);
+        width: 100%;
+        height: 8rem;
+        position: fixed;
     }
 }
 
