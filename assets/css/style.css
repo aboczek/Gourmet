@@ -494,6 +494,7 @@ textarea {
         background-color: var(--ham-bg);
         backdrop-filter: blur(1rem);
         border-top: 1px solid var(--gold);
+        z-index: 999996;
     }
 
     #ham-nav li {
