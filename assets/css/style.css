@@ -14,6 +14,7 @@ font-family: 'Cherish', cursive; */
 :root {
     --white: #ffffff;
     --gold: #ffd700;
+    --ham-bg: #131313b0;
 }
 
 html {
@@ -431,10 +432,15 @@ textarea {
     }
 
     header h1 {
-        text-align: center;
-        font-size: 13rem;
-        font-family: 'Cherish', cursive;
-        margin-right: 2rem;
+        display: none;
+    }
+
+    #menu {
+        display: none;
+    }
+
+    .hamburger-menu {
+        background-color: var();
     }
 }
 
