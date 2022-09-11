@@ -45,7 +45,8 @@ nav {
     height: 15vh;
 }
 
-header a, #menu li a {
+header a,
+#menu li a {
     text-decoration: none;
     color: var(--white);
 }
@@ -80,7 +81,7 @@ header h1 {
 }
 
 #menu li:hover {
-    border-color: var(--gold);   
+    border-color: var(--gold);
 }
 
 
@@ -162,7 +163,8 @@ footer p {
     font-weight: 500;
 }
 
-.center, .changes {
+.center,
+.changes {
     text-align: center;
 }
 
@@ -196,7 +198,7 @@ footer p {
 .cocktail-menu {
     font-size: 2.6rem;
     margin-bottom: 0.5rem;
-    
+
 }
 
 .cocktail-item * {
@@ -334,7 +336,7 @@ textarea {
     #hamburger-menu {
         display: none;
     }
-}    
+}
 
 /* @media (max-width: 996px) {
 
@@ -417,7 +419,7 @@ textarea {
         width: 90%;
         margin-left: 0.75rem;
     }
-    
+
     .booktable form {
         height: 48rem;
     }
@@ -426,13 +428,13 @@ textarea {
         width: 90%;
     }
 
-     div#fullname {
+    div#fullname {
         width: auto
-     }
+    }
 
-     textarea {
+    textarea {
         width: 80%;
-     }
+    }
 
     iframe {
         width: auto;
@@ -446,7 +448,7 @@ textarea {
         display: none;
     }
 
-/* Hamburger Menu */
+    /* Hamburger Menu */
 
     #hamburger {
         display: none;
@@ -462,7 +464,7 @@ textarea {
         display: flex;
         flex-direction: row;
         justify-content: space-between;
-        
+
     }
 
     #logo-burger {
@@ -479,12 +481,12 @@ textarea {
     }
 
     #hamburger-menu label:hover {
-    background: var(--gold);
+        background: var(--gold);
     }
 
     #ham-nav {
         position: fixed;
-        display: inline-block;
+        display: block;
         list-style-type: none;
         width: 100%;
         margin-top: 6rem;
@@ -513,11 +515,20 @@ textarea {
         transition: 1s;
     }
 
-    
 
-    
+    /* hiding menu */
 
-    
+    #ham-nav {
+        display: none;
+    }
+
+    /* showing menu on checked */
+
+    #ham-menu input:checked ~ #ham-nav { display: block; }
+        
+
+
+
+
+
 }
-
-
