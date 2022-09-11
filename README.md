@@ -97,6 +97,7 @@ Wanted something nice and sleek.
 
 ### Desktop
 - [Homepage](documentation/desktop.png)
+- [Thank you page]()
 
 ### Tablet
 - 
@@ -191,7 +192,7 @@ Wanted something nice and sleek.
 
         **picture**
 
-- All forms like booking table and contact us have required data to be filled in.
+- Booking table have required data to be filled in.
     (All forms have dummy link and wont send data to anyone)
 
     **picture**
@@ -220,6 +221,7 @@ Testing was done in W3C Markup Validator and W3C CSS Validator Services to make 
 
 3. Known bugs.
     - Date and Time input is blank on mobile phones but not in Previews or Live website with Right Click **Inspect**.
+    - Checkbox hamburger menu wont close itself requires **JavaScript** to uncheck to make it hide the menu items.
 
 
 
