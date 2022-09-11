@@ -446,6 +446,8 @@ textarea {
         width: 100%;
         height: 8rem;
         position: fixed;
+        backdrop-filter: blur(1rem);
+        z-index: 9999995;
     }
 }
 
