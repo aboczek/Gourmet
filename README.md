@@ -46,7 +46,7 @@ Wanted something nice and sleek.
     - As user I want you to easily navigate to Main Menu.
     - As user I want you to easily navigate to Drinks Menu.
     - As user I want you to easily access Booking Table and successfully use it.
-    - As user I want you to easily access Contact Us and successfully use it.
+    - As user I want you to easily access About Us and successfully use it.
     - As user returning I want you to easily navigate through website as the first time without any issue even if there were any changes implemented. 
 
     
@@ -69,7 +69,7 @@ Wanted something nice and sleek.
 - Landing page to be nice and sleek.
 - Food menu to be readable for everyone.
 - Book tabel to work correctly.
-- Contact us form to work correctly.
+- About Us to work correctly.
 
 ## Design
 
