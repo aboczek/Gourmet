@@ -242,6 +242,7 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 # Credits:
 
 - Slack Community and my Mentor!
+- [Simen Daehlin](https://github.com/Eventyret) My Mentor very Helpfull!
 - [Pexels](http.//www.pexels.com)
 - [Delish](https://www.delish.com/) for food ideas!
 - [Lacucinaitaliana](https://www.lacucinaitaliana.com/) for food ideas!
