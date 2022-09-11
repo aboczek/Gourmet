@@ -249,6 +249,7 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 - [bbcgoodfood](https://www.bbcgoodfood.com/) for drinks ingredients.
 - [Google Maps](https://www.google.com/maps/) for google maps.
 - [screenfly](https://screenfly.org/) for testing my website ;).
-- [The W3C Markup Validation Service](https://validator.w3.org/) Checking HTML errors.
+- [The W3C Markup Validation Service](https://validator.w3.org/) Validation of HTML.
+- [The W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) Validation of CSS.
 
 [Back to top](#gourmet-restaurant-portfolio-project-1)
