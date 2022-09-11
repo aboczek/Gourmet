@@ -309,17 +309,21 @@ textarea {
     justify-content: center;
     text-align: center;
     text-decoration: none;
-    color: var(--white);
+    color: var(--bg);
     background-color: var(--gold);
+    border: 2px solid var(--white);
     width: 10rem;
     height: 6rem;
     margin: 2rem auto;
     border-radius: 1rem;
     font-size: 1.5rem;
+    font-weight: bold;
 }
 
 .thank-you a:hover {
-    color: var(--bg);
+    color: var(--white);
+    background-color: var(--bg);
+    border: 1px solid var(--white);
 }
 
 /* about us*/
