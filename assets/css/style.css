@@ -286,10 +286,12 @@ textarea {
     flex-direction: column;
     align-items: center;
     margin: 5rem auto;
+    width: 45rem;
+    background-color: var(--ham-bg);
 }
 
 .thank-you * {
-    
+    padding: 5rem;
 }
 
 /* about us*/
