@@ -305,15 +305,15 @@ textarea {
 .thank-you h2, p {
     display: flex;
     flex-direction: column;
-    
+
 }
 
 .thank-you img {
     width: 30rem;
-    height: 30rem;
+    height: 50rem;
     object-fit: cover;
-    border-radius: 20px;
     justify-content: space-between;
+    padding: 5rem 2rem;
 }
 
 
