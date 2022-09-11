@@ -279,6 +279,18 @@ textarea {
     margin-bottom: 4px;
 }
 
+/* Thank you website for booking form */
+.thank-you {
+    color: var(--white);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5rem auto;
+}
+
+.thank-you * {
+    
+}
 
 /* about us*/
 
