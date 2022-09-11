@@ -96,11 +96,7 @@ Wanted something nice and sleek.
 ## Wireframes
 
 ### Desktop
-- [Homepage]()
-- [Main Menu]()
-- [Drinks]()
-- [Book table!]()
-- [About Us]()
+- [Homepage](documentation/desktop.png)
 
 ### Tablet
 - 
