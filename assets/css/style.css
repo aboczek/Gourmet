@@ -485,10 +485,6 @@ textarea {
         margin-right: 0;
     }
 
-    .aboutus {
-        width: 90%;
-    }
-
     .booktable {
         width: 90%;
         margin-left: 1.8rem;
@@ -502,6 +498,7 @@ textarea {
     .thank-you {
         width: 100%;
         height: 40rem;
+        margin:5rem 0;
     }
 
     div#fullname {
@@ -512,9 +509,15 @@ textarea {
         width: 80%;
     }
 
+    .aboutus {
+        width: 90%;
+    }
+
     iframe {
         width: auto;
     }
+
+    /* Hiding unnecessary content */
 
     header h1 {
         display: none;
@@ -601,8 +604,10 @@ textarea {
 
     /* showing menu on checked */
 
-    #ham-menu input:checked ~ #ham-nav { display: block; }
-        
+    #ham-menu input:checked~#ham-nav {
+        display: block;
+    }
+
 
 
 
