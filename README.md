@@ -242,10 +242,11 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 # Credits:
 
 - Slack Community and my Mentor!
-- [Pexels.com](http.//www.pexels.com)
-- [Delish.com](https://www.delish.com/) for food ideas!
-- [Lacucinaitaliana.com](https://www.lacucinaitaliana.com/) for food ideas!
-- [bbcgoodfood.com](https://www.bbcgoodfood.com/) for drinks ingredients
+- [Pexels](http.//www.pexels.com)
+- [Delish](https://www.delish.com/) for food ideas!
+- [Lacucinaitaliana](https://www.lacucinaitaliana.com/) for food ideas!
+- [bbcgoodfood](https://www.bbcgoodfood.com/) for drinks ingredients
 - [Google Maps](https://www.google.com/maps/) for google maps
+- [screenfly](https://screenfly.org/) for testing my website ;)
 
 [Back to top](#gourmet-restaurant-portfolio-project-1)
