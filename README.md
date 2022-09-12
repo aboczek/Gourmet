@@ -102,16 +102,10 @@ Wanted something nice and sleek.
 ### Tablet
 - [Tablet Main Page](documentation/Tablet.png)
 - [Thank you page](documentation/thank-you-tablet.png)
-- 
-- 
-- 
 
 ### Mobile
-- 
-- 
-- 
-- 
-- 
+- [Mobile Main Page](documentation/Mobile.png)
+- [Thank you page](documentation/thank-you-mobile.png)
 
 # Website structure
 
