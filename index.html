@@ -331,19 +331,18 @@
             <form action="thank-you.html">
                 <h2>Book Your Table</h2>
                 <div id="fullname">
-                    <input type="text" id="fname" name="fname" placeholder="First Name" required>
-                    <input type="text" id="lname" name="lname" placeholder="Last Name" required>
+                    <input type="text" id="fname" name="fname" placeholder="First Name" aria-label="First Name" required>
+                    <input type="text" id="lname" name="lname" placeholder="Last Name" aria-label="Last Name" required>
                 </div>
                 <div id="tel-email-number">
-                    <input type="email" id="emailaddress" name="email" placeholder="Email Address" required>
-                    <input type="tel" id="phonenumber" placeholder="Phone Number" required>
-                    <input type="number" id="numberofguests" placeholder="Number of Guests" required>
+                    <input type="email" id="emailaddress" name="email" placeholder="Email Address" aria-label="Email Address" required>
+                    <input type="tel" id="phonenumber" placeholder="Phone Number" aria-label="Phone Number" required>
+                    <input type="number" id="numberofguests" placeholder="Number of Guests" aria-labe="Number of Guests" required>
                 </div>
                 <div id="date-time">
-                    <label for="booking-date"></label>
-                    <input type="date" id="booking-date" placeholder="Date" required>
+                    <input type="date" id="booking-date" placeholder="Date" aria-label="Booking Date" required>
                     <label for="booking-time"></label>
-                    <input type="time" id="booking-time" placeholder="Time" required>
+                    <input type="time" id="booking-time" placeholder="Time" aria-label="Booking Time" required>
                 </div>
                 <textarea id="yourcomment" name="comments" cols="50" rows="6"
                     placeholder="Special Requests here"></textarea>
