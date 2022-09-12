@@ -97,7 +97,7 @@ Wanted something nice and sleek.
 
 ### Desktop
 - [Homepage](documentation/desktop.png)
-- [Thank you page]()
+- [Thank you page](documentation/thank-you-pc.png)
 
 ### Tablet
 - 
