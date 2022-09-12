@@ -96,12 +96,12 @@ Wanted something nice and sleek.
 ## Wireframes
 
 ### Desktop
-- [Homepage](documentation/desktop.png)
+- [Desktop Main Page](documentation/desktop.png)
 - [Thank you page](documentation/thank-you-pc.png)
 
 ### Tablet
-- 
-- 
+- [Tablet Main Page](documentation/Tablet.png)
+- [Thank you page](documentation/thank-you-tablet.png)
 - 
 - 
 - 
