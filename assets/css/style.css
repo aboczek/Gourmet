@@ -522,6 +522,11 @@ textarea {
         width: auto;
     }
 
+    .thank-you {
+        width: 90%;
+        margin: auto;
+    }
+
     /* Hiding unnecessary content */
 
     header h1 {
