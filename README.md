@@ -191,7 +191,9 @@ Wanted something nice and sleek.
 
     - Mobile devices.
 
-        <img src="assets/images/main-mobile-content-1.jpg" alt="Mobile content" />
+        <img src="assets/images/main-mobile-content-1.jpg" alt="Mobile content" width="50%"/>
+
+        <img src="assets/images/main-mobile-content-2.png" alt="Food menu starters" width="50%" />
 
     - Tablets.
 
