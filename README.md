@@ -160,7 +160,7 @@ Wanted something nice and sleek.
  - Navigation bar will be mostly the same through out the website except for buttons they will be replaced with hamburger menu on mobile devices.
 
 
-    - Small devices.
+    - Mobile devices.
 
         - Hidden hamburger menu for mobiles.
 
