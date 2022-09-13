@@ -227,6 +227,8 @@ Wanted something nice and sleek.
 
         <img src="assets/images/main-tablet-cocktails-3.png" alt="Cocktails menu wine" />
 
+        <img src="assets/images/main-tablet-book-table.jpg" alt="Booking a table" />
+
 
 
     - Desktop.
