@@ -213,7 +213,7 @@ Wanted something nice and sleek.
 
     - Tablets.
 
-        **picture**
+        <img src="assets/images/main-tablet-content-1.jpg" alt="Tablet content" />
 
     - Desktop.
 
