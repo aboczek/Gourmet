@@ -78,13 +78,13 @@ Wanted something nice and sleek.
 
         - Gold #ffd700;
             
-            ![Gold Color width="100"](assets/images/gold.png)
+            <img src="assets/images/gold.png" width="100" alt="Gold Color" />
         - White #ffffff;
 
-            [<img src="assets/images/white.png" width="100"/>](white.png)
+            <img src="assets/images/white.png" width="100" alt="White Color" />
         - #131313b0; 
         
-            [<img src="assets/images/greyopacity.png" width="100"/>](greyopacity.png)
+            <img src="assets/images/greyopacity.png" width="100" alt="Opaque Grey Color" />
 
     - Fonts:
         - Fonts used on website are [Cherish](https://fonts.google.com/specimen/Cherish?query=cherish) and Amethyst from google fonts. Cherish is used for logo itself and [Amethysta](https://fonts.google.com/specimen/Amethysta?query=amet) for buttons.
