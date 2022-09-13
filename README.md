@@ -164,18 +164,18 @@ Wanted something nice and sleek.
 
         - Hidden hamburger menu for mobiles.
 
-            <img src="assets/images/menu-mobile-hidden.png" alt="Mobile menu hidden">
+            <img src="assets/images/menu-mobile-hidden.png" alt="Mobile menu hidden"/>
 
         - Opened hamburger menu for mobiles.
 
-            <img src="assets/images/menu-mobile-open.png" alt="Mobile menu open">
+            <img src="assets/images/menu-mobile-open.png" alt="Mobile menu open"/>
     
     
-
-
     - Tablets.
 
-        **picture**
+        - Small Tablets 
+
+            <img src="assets/images/menu-tablet-small.png" alt="Small Tablet menu" />
 
     - Desktop.
 
