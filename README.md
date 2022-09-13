@@ -2,7 +2,7 @@
 
 This is protfolio project about Italian restaurant called Gourmet, it is designed to represent my journey through the project itself. You will be able to navigate through website on many devices from PC's to small portable devices without any problem.
 
-![Responsive Displays](assets/images/am-i-responsive.jpg)
+<img src="assets/images/am-i-responsive.jpg" alt="Responsive Displays" />
 
 ## Table of content:
 
