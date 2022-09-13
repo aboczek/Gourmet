@@ -162,7 +162,11 @@ Wanted something nice and sleek.
 
     - Small devices.
 
-        
+        - Hidden hamburger menu for mobiles.
+
+            <img src="assets/images/menu-mobile-hidden.png" alt="Mobile menu hidden">
+    
+    
 
 
     - Tablets.
