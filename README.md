@@ -165,6 +165,10 @@ Wanted something nice and sleek.
         - Hidden hamburger menu for mobiles.
 
             <img src="assets/images/menu-mobile-hidden.png" alt="Mobile menu hidden">
+
+        - Opened hamburger menu for mobiles.
+
+            <img src="assets/images/menu-mobile-open.png" alt="Mobile menu open">
     
     
 
