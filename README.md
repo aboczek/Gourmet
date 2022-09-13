@@ -215,6 +215,14 @@ Wanted something nice and sleek.
 
         <img src="assets/images/main-tablet-content-1.jpg" alt="Tablet content" />
 
+        <img src="assets/images/main-tablet-content-2.jpg" alt="Food menu starters" />
+
+        <img src="assets/images/main-tablet-content-3.jpg" alt="Food menu main crouse" />
+
+        <img src="assets/images/main-tablet-content-4.jpg" alt="Food menu desserts" />
+
+
+
     - Desktop.
 
         **picture**
