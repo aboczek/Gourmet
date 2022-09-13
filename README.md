@@ -229,6 +229,10 @@ Wanted something nice and sleek.
 
         <img src="assets/images/main-tablet-book-table.jpg" alt="Booking a table" />
 
+        <img src="assets/images/main-tablet-about-us-1.png" alt="About us" />
+
+        <img src="assets/images/main-tablet-about-us-2.png" alt="About us map" />
+
 
 
     - Desktop.
