@@ -75,9 +75,10 @@ Wanted something nice and sleek.
 
  - Colors:
     - Colors used on the website are:
+
         - Gold #ffd700;
             
-            [<img src="assets/images/gold.png" width="100"/>](gold.png)
+            ![Gold Color width="100"](assets/images/gold.png)
         - White #ffffff;
 
             [<img src="assets/images/white.png" width="100"/>](white.png)
