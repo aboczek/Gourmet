@@ -189,9 +189,9 @@ Wanted something nice and sleek.
 
 - Main content of website will be nicely adjusted on all devices with pictures below:
 
-    - Small devices.
+    - Mobile devices.
 
-        **picture**
+        <img src="" alt="" />
 
     - Tablets.
 
