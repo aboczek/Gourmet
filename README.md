@@ -191,41 +191,41 @@ Wanted something nice and sleek.
 
     - Mobile devices.
 
-        <img src="assets/images/main-mobile-content-1.jpg" alt="Mobile content" width="50%"/>
+        <img src="assets/images/main-mobile-content-1.jpg" alt="Mobile content" />
 
-        <img src="assets/images/main-mobile-content-2.png" alt="Food menu starters" width="50%" />
+        <img src="assets/images/main-mobile-content-2.png" alt="Food menu starters" />
 
-        <img src="assets/images/main-mobile-content-3.png" alt="Food menu main course" width="50%" />
+        <img src="assets/images/main-mobile-content-3.png" alt="Food menu main course" />
 
-        <img src="assets/images/main-mobile-content-4.png" alt="Food menu desserts" width="50%" />
+        <img src="assets/images/main-mobile-content-4.png" alt="Food menu desserts" />
 
-        <img src="assets/images/main-mobile-cocktails-1.png" alt="Drinks menu cocktails" width="50%" />
+        <img src="assets/images/main-mobile-cocktails-1.png" alt="Drinks menu cocktails" />
 
-        <img src="assets/images/main-mobile-cocktails-2.png" alt="Drinks menu beer and wines" width="50%" />
+        <img src="assets/images/main-mobile-cocktails-2.png" alt="Drinks menu beer and wines" />
 
-        <img src="assets/images/main-mobile-cocktails-3.png" alt="Drinks menu beer and wines" width="50%" />
+        <img src="assets/images/main-mobile-cocktails-3.png" alt="Drinks menu beer and wines" />
 
-        <img src="assets/images/main-mobile-book-table.png" alt="Booking a table" width="50%" />
+        <img src="assets/images/main-mobile-book-table.png" alt="Booking a table" />
 
-        <img src="assets/images/main-mobile-about-us-1.png" alt="About us " width="50%" />
+        <img src="assets/images/main-mobile-about-us-1.png" alt="About us " />
 
-        <img src="assets/images/main-mobile-about-us-2.png" alt="About us map" width="50%" />
+        <img src="assets/images/main-mobile-about-us-2.png" alt="About us map" />
 
     - Tablets.
 
-        <img src="assets/images/main-tablet-content-1.jpg" alt="Tablet content" width="50%" />
+        <img src="assets/images/main-tablet-content-1.jpg" alt="Tablet content" />
 
-        <img src="assets/images/main-tablet-content-2.jpg" alt="Food menu starters" width="50%" />
+        <img src="assets/images/main-tablet-content-2.jpg" alt="Food menu starters" />
 
-        <img src="assets/images/main-tablet-content-3.jpg" alt="Food menu main crouse" width="50%" />
+        <img src="assets/images/main-tablet-content-3.jpg" alt="Food menu main crouse" />
 
-        <img src="assets/images/main-tablet-content-4.jpg" alt="Food menu desserts" width="50%" />
+        <img src="assets/images/main-tablet-content-4.jpg" alt="Food menu desserts" />
 
-        <img src="assets/images/main-tablet-cocktails-1.png" alt="Drinks menu cocktails" width="50%" />
+        <img src="assets/images/main-tablet-cocktails-1.png" alt="Drinks menu cocktails" />
 
-        <img src="assets/images/main-tablet-cocktails-2.png" alt="Cocktails menu beer" width="50%" />
+        <img src="assets/images/main-tablet-cocktails-2.png" alt="Cocktails menu beer" />
 
-        <img src="assets/images/main-tablet-cocktails-3.png" alt="Cocktails menu wine" width="50%"/>
+        <img src="assets/images/main-tablet-cocktails-3.png" alt="Cocktails menu wine" />
 
 
 
