@@ -177,9 +177,15 @@ Wanted something nice and sleek.
 
             <img src="assets/images/menu-tablet-small.png" alt="Small Tablet menu" />
 
+        - Tablets
+
+            <img src="assets/images/menu-tablet.png" alt="Tablet menu" />
+
     - Desktop.
 
-        **picture**
+        - Desktops
+
+            <img src="assets/images/menu-desktop.png" alt="Desktop menu" />
 
 - Main content of website will be nicely adjusted on all devices with pictures below:
 
