@@ -191,7 +191,7 @@ Wanted something nice and sleek.
 
     - Mobile devices.
 
-        <img src="" alt="" />
+        <img src="assets/images/main-mobile-content-1.jpg" alt="Mobile content" />
 
     - Tablets.
 
