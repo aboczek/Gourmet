@@ -195,6 +195,16 @@ Wanted something nice and sleek.
 
         <img src="assets/images/main-mobile-content-2.png" alt="Food menu starters" width="50%" />
 
+        <img src="assets/images/main-mobile-content-3.png" alt="Food menu main course" width="50%" />
+
+        <img src="assets/images/main-mobile-content-4.png" alt="Food menu desserts" width="50%" />
+
+        <img src="assets/images/main-mobile-cocktails-1.png" alt="Drinks menu cocktails" width="50%" />
+
+        <img src="assets/images/main-mobile-cocktails-2.png" alt="Drinks menu beer and wines" width="50%" />
+
+        <img src="assets/images/main-mobile-cocktails-3.png" alt="Drinks menu beer and wines" width="50%" />
+
     - Tablets.
 
         **picture**
