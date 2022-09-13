@@ -213,13 +213,19 @@ Wanted something nice and sleek.
 
     - Tablets.
 
-        <img src="assets/images/main-tablet-content-1.jpg" alt="Tablet content" />
+        <img src="assets/images/main-tablet-content-1.jpg" alt="Tablet content" width="50%" />
 
-        <img src="assets/images/main-tablet-content-2.jpg" alt="Food menu starters" />
+        <img src="assets/images/main-tablet-content-2.jpg" alt="Food menu starters" width="50%" />
 
-        <img src="assets/images/main-tablet-content-3.jpg" alt="Food menu main crouse" />
+        <img src="assets/images/main-tablet-content-3.jpg" alt="Food menu main crouse" width="50%" />
 
-        <img src="assets/images/main-tablet-content-4.jpg" alt="Food menu desserts" />
+        <img src="assets/images/main-tablet-content-4.jpg" alt="Food menu desserts" width="50%" />
+
+        <img src="assets/images/main-tablet-cocktails-1.png" alt="Drinks menu cocktails" width="50%" />
+
+        <img src="assets/images/main-tablet-cocktails-2.png" alt="Cocktails menu beer" width="50%" />
+
+        <img src="assets/images/main-tablet-cocktails-3.png" alt="Cocktails menu wine" width="50%"/>
 
 
 
