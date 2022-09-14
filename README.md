@@ -295,9 +295,6 @@ Wanted something nice and sleek.
         <img src="assets/images/css validator.png" alt="CSS validator picture" />
 
 
-
-Testing was done in W3C Markup Validator and W3C CSS Validator Services to make sure there is no markup errors in syntax.
-
 2. Testing on website.
     - Website has been tested in Lighthouse, [Screenfly](https://screenfly.org/) and my own PC.
 
