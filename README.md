@@ -284,13 +284,15 @@ Wanted something nice and sleek.
 
     - HTML Validator
     
-    - Main Page
+        - Main Page and Thank you
 
-    
-    - Thank you Page
-
+        <img src="assets/images/html validator.png" alt="HTML validator picture" />
 
     - CSS Validator
+
+        - CSS 
+
+        <img src="assets/images/css validator.png" alt="CSS validator picture" />
 
 
 
