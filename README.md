@@ -270,8 +270,9 @@ Wanted something nice and sleek.
         <img src="assets/images/desktop-thank-you.jpg" alt="Thank you website on desktop" />
 
 - Footer
+    - Footer looks the same on all devices just space around looks different.
 
-    **picture**
+    <img src="assets/images/footer.png" alt="Footer" />
 
 
 
