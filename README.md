@@ -243,23 +243,31 @@ Wanted something nice and sleek.
 
         <img src="assets/images/main-desktop-content-3.jpg" alt="Food menu main course" />
 
-        <img src="assets/images/main-desktop-content-4.jpg" alt="Food menu desserts">
+        <img src="assets/images/main-desktop-content-4.jpg" alt="Food menu desserts" />
 
-        <img src="assets/images/main-desktop-content-5.jpg" alt="Drinks menu cocktails" >
+        <img src="assets/images/main-desktop-content-5.jpg" alt="Drinks menu cocktails" />
 
-        <img src="assets/images/main-desktop-content-6.jpg" alt="Drinks menu beer" >
+        <img src="assets/images/main-desktop-content-6.jpg" alt="Drinks menu beer" />
 
-        <img src="assets/images/main-desktop-content-7.jpg" alt="Drinks menu wine" >
+        <img src="assets/images/main-desktop-content-7.jpg" alt="Drinks menu wine" />
 
-        <img src="assets/images/main-desktop-content-8.jpg" alt="Booking a table" >
+        <img src="assets/images/main-desktop-content-8.jpg" alt="Booking a table" />
 
-        <img src="assets/images/main-desktop-content-9.jpg" alt="About us" >
+        <img src="assets/images/main-desktop-content-9.jpg" alt="About us" />
 
-        <img src="assets/images/main-desktop-content-10.jpg" alt="About us map" >
+        <img src="assets/images/main-desktop-content-10.jpg" alt="About us map" />
 
 - Thank you Website for Booking a Table!.
 
-    **picture**
+    - Mobile
+
+        <img src="assets/images/mobile-thank-you.png" alt="Thank you website on mobile" />
+    - Tablet 
+
+        <img src="assets/images/tablet-thank-you.jpg" alt="Thank you website on tablet" />
+    - Desktop
+
+        <img src="assets/images/desktop-thank-you.jpg" alt="Thank you website on desktop" />
 
 - Footer
 
