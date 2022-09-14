@@ -201,7 +201,7 @@ Wanted something nice and sleek.
 
         <img src="assets/images/main-mobile-cocktails-1.png" alt="Drinks menu cocktails" />
 
-        <img src="assets/images/main-mobile-cocktails-2.png" alt="Drinks menu beer and wines" />
+        <img src="assets/images/main-mobile-cocktails-2.png" alt="Drinks menu beer" />
 
         <img src="assets/images/main-mobile-cocktails-3.png" alt="Drinks menu beer and wines" />
 
@@ -223,9 +223,9 @@ Wanted something nice and sleek.
 
         <img src="assets/images/main-tablet-cocktails-1.png" alt="Drinks menu cocktails" />
 
-        <img src="assets/images/main-tablet-cocktails-2.png" alt="Cocktails menu beer" />
+        <img src="assets/images/main-tablet-cocktails-2.png" alt="Drinks menu beer" />
 
-        <img src="assets/images/main-tablet-cocktails-3.png" alt="Cocktails menu wine" />
+        <img src="assets/images/main-tablet-cocktails-3.png" alt="Drinks menu wine" />
 
         <img src="assets/images/main-tablet-book-table.jpg" alt="Booking a table" />
 
@@ -244,6 +244,18 @@ Wanted something nice and sleek.
         <img src="assets/images/main-desktop-content-3.jpg" alt="Food menu main course" />
 
         <img src="assets/images/main-desktop-content-4.jpg" alt="Food menu desserts">
+
+        <img src="assets/images/main-desktop-content-5.jpg" alt="Drinks menu cocktails" >
+
+        <img src="assets/images/main-desktop-content-5.jpg" alt="Drinks menu beer" >
+
+        <img src="assets/images/main-desktop-content-5.jpg" alt="Drinks menu wine" >
+
+        <img src="" alt="" >
+
+        <img src="" alt="" >
+
+        <img src="" alt="" >
 
 - Booking table have required data to be filled in.
     (All forms have dummy link and wont send data to anyone)
