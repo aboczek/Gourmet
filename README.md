@@ -300,6 +300,10 @@ Testing was done in W3C Markup Validator and W3C CSS Validator Services to make 
 2. Testing on portable devices.
     - Website has been tested with Lighthouse, [Screenfly](https://screenfly.org/) and couple of mobile devices.
 
+        - Screenfly website.
+
+            <img src="assets/images/screenfly-test.jpg" alt="Screenfly test" />
+
 3. Known bugs.
     - Date and Time input is blank on mobile phones but not in Previews or Live website with Right Click **Inspect**.
     - Checkbox hamburger menu wont close itself requires **JavaScript** to uncheck to make it hide the menu items.
