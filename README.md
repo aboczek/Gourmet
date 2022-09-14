@@ -217,7 +217,7 @@ Wanted something nice and sleek.
 
         <img src="assets/images/main-tablet-content-2.jpg" alt="Food menu starters" />
 
-        <img src="assets/images/main-tablet-content-3.jpg" alt="Food menu main crouse" />
+        <img src="assets/images/main-tablet-content-3.jpg" alt="Food menu main course" />
 
         <img src="assets/images/main-tablet-content-4.jpg" alt="Food menu desserts" />
 
@@ -237,7 +237,13 @@ Wanted something nice and sleek.
 
     - Desktop.
 
-        **picture**
+        <img src="assets/images/main-desktop-content-1.jpg" alt="Desktop content" />
+
+        <img src="assets/images/main-desktop-content-2.jpg" alt="Food menu starters" />
+
+        <img src="assets/images/main-desktop-content-3.jpg" alt="Food menu main course" />
+
+        <img src="assets/images/main-desktop-content-4.jpg" alt="Food menu desserts">
 
 - Booking table have required data to be filled in.
     (All forms have dummy link and wont send data to anyone)
