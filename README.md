@@ -257,11 +257,6 @@ Wanted something nice and sleek.
 
         <img src="assets/images/main-desktop-content-10.jpg" alt="About us map" >
 
-- Booking table have required data to be filled in.
-    (All forms have dummy link and wont send data to anyone)
-
-    **picture**
-
 - Thank you Website for Booking a Table!.
 
     **picture**

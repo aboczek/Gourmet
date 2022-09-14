@@ -288,7 +288,7 @@ textarea {
     display: flex;
     flex-direction: column;
     text-align: center;
-    margin: 20rem auto;
+    margin: 10rem auto;
     width: 40rem;
     height: 30rem;
     background-color: var(--bg);
