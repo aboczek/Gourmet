@@ -285,6 +285,18 @@ Testing was done in W3C Markup Validator and W3C CSS Validator Services to make 
 1. Testing on website.
     - Website has been tested in Lighthouse, [Screenfly](https://screenfly.org/) and my own PC.
 
+        - Mobile Lighthouse score
+
+        <img src="assets/images/mobile-lighthouse-score.png" alt="Lighthouse score" />
+
+        - Desktop Lighthouse score
+
+        <img src="assets/images/desktop-lighthouse-score.png" alt="Lighthouse score" />
+
+        - Desktop lighthouse errors stopping me from getting 100 points :)
+
+        <img src="assets/images/desktop-lighthouse-errors.png" alt="Lighthouse errors" />
+
 2. Testing on portable devices.
     - Website has been tested with Lighthouse, [Screenfly](https://screenfly.org/) and couple of mobile devices.
 
