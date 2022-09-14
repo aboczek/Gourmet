@@ -247,15 +247,15 @@ Wanted something nice and sleek.
 
         <img src="assets/images/main-desktop-content-5.jpg" alt="Drinks menu cocktails" >
 
-        <img src="assets/images/main-desktop-content-5.jpg" alt="Drinks menu beer" >
+        <img src="assets/images/main-desktop-content-6.jpg" alt="Drinks menu beer" >
 
-        <img src="assets/images/main-desktop-content-5.jpg" alt="Drinks menu wine" >
+        <img src="assets/images/main-desktop-content-7.jpg" alt="Drinks menu wine" >
 
-        <img src="" alt="" >
+        <img src="assets/images/main-desktop-content-8.jpg" alt="Booking a table" >
 
-        <img src="" alt="" >
+        <img src="assets/images/main-desktop-content-9.jpg" alt="About us" >
 
-        <img src="" alt="" >
+        <img src="assets/images/main-desktop-content-10.jpg" alt="About us map" >
 
 - Booking table have required data to be filled in.
     (All forms have dummy link and wont send data to anyone)
