@@ -25,7 +25,6 @@ This is protfolio project about Italian restaurant called Gourmet, it is designe
     - [Navigation bar](#navigation-bar)
 - [Testing](#testing)
 - [Deployment](#deployment)
-- [Contributions](#contributions)
 - [Credits](#credits)
 
 # Motivation:
@@ -335,11 +334,6 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 4. Click on the **Save** button.
 5. Now the website is now live on 
 6. If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
-
-
-# Contributions:
-
-
 
 # Credits:
 
