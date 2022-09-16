@@ -210,6 +210,8 @@ Wanted something nice and sleek.
 
         <img src="assets/images/main-mobile-about-us-2.png" alt="About us map" width="50%"/>
 
+        [Back to top](#gourmet-restaurant-portfolio-project-1)
+
     - Tablets.
 
         <img src="assets/images/main-tablet-content-1.jpg" alt="Tablet content" />
@@ -232,7 +234,7 @@ Wanted something nice and sleek.
 
         <img src="assets/images/main-tablet-about-us-2.png" alt="About us map" />
 
-
+    [Back to top](#gourmet-restaurant-portfolio-project-1)
 
     - Desktop.
 
@@ -255,6 +257,8 @@ Wanted something nice and sleek.
         <img src="assets/images/main-desktop-content-9.jpg" alt="About us" />
 
         <img src="assets/images/main-desktop-content-10.jpg" alt="About us map" />
+
+        [Back to top](#gourmet-restaurant-portfolio-project-1)
 
 - Thank you Website for Booking a Table!.
 
