@@ -379,9 +379,13 @@ textarea {
         width: 90%;
     }
 
+    /* map in about us */ 
+
     iframe {
         width: auto;
     }
+
+    /* Hamburger menu */
 
     #hamburger-menu {
         display: none;
@@ -420,9 +424,13 @@ textarea {
         width: 90%;
     }
 
+    /* map in about us */ 
+
     iframe {
         width: auto;
     }
+
+    /* Hamburger menu */
 
     #hamburger-menu {
         display: none;
@@ -465,12 +473,6 @@ textarea {
         width: 90%;
     }
 
-    .thank-you {
-        width: 100%;
-        height: 40rem;
-        margin: 5rem 0;
-    }
-
     div#fullname {
         width: auto
     }
@@ -483,9 +485,13 @@ textarea {
         width: 90%;
     }
 
+    /* Map in about us */
+
     iframe {
         width: auto;
     }
+
+    /* Thank you page */
 
     .thank-you {
         width: 90%;
