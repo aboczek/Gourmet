@@ -2,8 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Amethysta&family=Cherish&display=swap');
 
-/* font-family: 'Amethysta', serif;
-font-family: 'Cherish', cursive; */
 
 * {
     padding: 0;
@@ -34,9 +32,7 @@ body {
     font-size: 1.6rem;
 }
 
-
 /* Header */
-
 
 nav {
     width: 100vw;
@@ -57,7 +53,6 @@ header h1 {
     font-family: 'Cherish', cursive;
 }
 
-
 #menu {
     top: 1px;
     position: fixed;
@@ -68,7 +63,6 @@ header h1 {
     width: 100%;
     z-index: 9999999;
 }
-
 
 #menu li {
     font-size: 2rem;
@@ -84,9 +78,7 @@ header h1 {
     border-color: var(--gold);
 }
 
-
 /* main part of body */
-
 
 #welcome h2 {
     text-align: center;
@@ -117,7 +109,6 @@ footer p {
     text-align: center;
 }
 
-
 /* main menu */
 
 .flex {
@@ -136,14 +127,11 @@ footer p {
     border-radius: 2.5rem;
 }
 
-
-
 .price {
     display: flex;
     justify-content: space-between;
     margin: 0;
 }
-
 
 .menu-item * {
     list-style-type: none;
@@ -283,6 +271,7 @@ textarea {
 }
 
 /* Thank you website for booking form */
+
 .thank-you {
     color: var(--white);
     display: flex;
@@ -370,8 +359,8 @@ textarea {
 
 /* Portable devices */
 
-
 /* Large Devices aka Desktops */
+
 @media (max-width: 1024px) {
 
     .flex {
@@ -406,30 +395,6 @@ textarea {
         display: none;
     }
 }
-
-/* @media (max-width: 996px) {
-
-    .flex {
-        width: 90%;
-    }
-
-    .cocktails {
-        width: 90%;
-    }
-
-    .aboutus {
-        width: 90%;
-    }
-
-    .booktable {
-        width: 90%;
-    }
-
-    iframe {
-        width: auto;
-    }
-
-}     */
 
 /* Medium Devices aka Tablets */
 
@@ -554,7 +519,6 @@ textarea {
         display: flex;
         flex-direction: row;
         justify-content: space-between;
-
     }
 
     #logo-burger {
@@ -606,7 +570,6 @@ textarea {
         transition: 1s;
     }
 
-
     /* hiding menu */
 
     #ham-nav {
@@ -618,5 +581,4 @@ textarea {
     #ham-menu input:checked~#ham-nav {
         display: block;
     }
-
 }
