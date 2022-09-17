@@ -343,6 +343,12 @@ textarea {
     margin-bottom: 3.2rem;
 }
 
+iframe {
+    width: 55rem;
+    height: 45rem;
+    border: 0;
+}
+
 /* Hiding hamburger menu and its content */
 
 #hamburger-menu {
@@ -379,7 +385,7 @@ textarea {
         width: 90%;
     }
 
-    /* map in about us */ 
+    /* map in about us */
 
     iframe {
         width: auto;
@@ -424,7 +430,7 @@ textarea {
         width: 90%;
     }
 
-    /* map in about us */ 
+    /* map in about us */
 
     iframe {
         width: auto;
