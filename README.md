@@ -203,7 +203,7 @@ Wanted something nice and sleek.
 
         <img src="assets/images/main-mobile-cocktails-3.png" alt="Drinks menu beer and wines" width="50%"/>
 
-        <img src="assets/images/main-mobile-book-table.png" alt="Booking a table" width="50%"/>
+        <img src="assets/images/mobile-book-table-update.png" alt="Booking a table" width="50%"/>
 
         <img src="assets/images/main-mobile-about-us-1.png" alt="About us " width="50%"/>
 
@@ -227,7 +227,7 @@ Wanted something nice and sleek.
 
         <img src="assets/images/main-tablet-cocktails-3.png" alt="Drinks menu wine" />
 
-        <img src="assets/images/main-tablet-book-table.jpg" alt="Booking a table" />
+        <img src="assets/images/tablet-book-table-update.jpg" alt="Booking a table" />
 
         <img src="assets/images/main-tablet-about-us-1.png" alt="About us" />
 
@@ -251,7 +251,7 @@ Wanted something nice and sleek.
 
         <img src="assets/images/main-desktop-content-7.jpg" alt="Drinks menu wine" />
 
-        <img src="assets/images/main-desktop-content-8.jpg" alt="Booking a table" />
+        <img src="assets/images/desktop-book-table-update.jpg" alt="Booking a table" />
 
         <img src="assets/images/main-desktop-content-9.jpg" alt="About us" />
 
