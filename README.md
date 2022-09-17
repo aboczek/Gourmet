@@ -306,11 +306,8 @@ Wanted something nice and sleek.
 
         - Desktop Lighthouse score
 
-        <img src="assets/images/desktop-lighthouse-score.png" alt="Lighthouse score" />
+        <img src="assets/images/desktop-ligthhouse-incognito.png" alt="Lighthouse score" />
 
-        - Desktop lighthouse errors stopping me from getting 100 points :)
-
-        <img src="assets/images/desktop-lighthouse-errors.png" alt="Lighthouse errors" />
 
 3. Testing on portable devices.
     - Website has been tested with Lighthouse, [Screenfly](https://screenfly.org/) and couple of mobile devices.
