@@ -547,6 +547,7 @@ iframe {
         font-family: Cherish, cursive;
         font-size: 5rem;
         padding-left: 1rem;
+        text-decoration: none;
     }
 
     #hamburger-menu label {
@@ -579,11 +580,14 @@ iframe {
         margin-left: auto;
         margin-right: auto;
         padding-bottom: 1rem;
+        text-decoration: none;
     }
 
 
     #ham-nav li a {
         font-size: 2rem;
+        text-decoration: none;
+        color: var(--white);
     }
 
     #ham-nav li a:hover {
