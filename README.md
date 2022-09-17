@@ -385,6 +385,14 @@ Wanted something nice and sleek.
 
 - As user I want you to easily access About Us and successfully use it.
 
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+| User see Book table button | User can press on Book table button | User will land on Book table form section | PASS              |
+<details><summary>Picture</summary>
+<img src="" alt="Book table form"/>
+</details>
+<br>
+
 
 - As user returning I want you to easily navigate through website as the first time without any issue even if there were any changes implemented. 
 
