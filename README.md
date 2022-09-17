@@ -387,9 +387,19 @@ Wanted something nice and sleek.
 
 | **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+| User see About us button | User can press on About us button | User will land on About us section | PASS              |
+<details><summary>Picture</summary>
+<img src="assets/images/testing-user-stories-7.jpg" alt="About us"/>
+</details>
+<br>
+
+- As user I want you to see Thank you page after booking table. 
+
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User see Book table button | User can press on Book table button | User will land on Book table form section | PASS              |
 <details><summary>Picture</summary>
-<img src="" alt="Book table form"/>
+<img src="" alt="Thank you page"/>
 </details>
 <br>
 
