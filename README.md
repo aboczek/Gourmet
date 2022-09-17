@@ -24,6 +24,7 @@ This is protfolio project about Italian restaurant called Gourmet, it is designe
 - [Features](#features)
     - [Navigation bar](#navigation-bar)
 - [Testing](#testing)
+- [Testing user stories](#testing-user-stories)
 - [Deployment](#deployment)
 - [Credits](#credits)
 
@@ -319,6 +320,18 @@ Wanted something nice and sleek.
 4. Known bugs.
     - Date and Time input is blank on mobile phones but not in Previews or Live website with Right Click **Inspect**.
     - Checkbox hamburger menu wont close itself requires **JavaScript** to uncheck to make it hide the menu items.
+
+# Testing user stories
+
+ - User Story
+    - As user visiting website I want you to understand what is the website about.
+    - As user visiting website I want you to navigate easily through the website.
+    - As user I want you to see landing page and navigate through it.
+    - As user I want you to easily navigate to Main Menu.
+    - As user I want you to easily navigate to Drinks Menu.
+    - As user I want you to easily access Booking Table and successfully use it.
+    - As user I want you to easily access About Us and successfully use it.
+    - As user returning I want you to easily navigate through website as the first time without any issue even if there were any changes implemented. 
 
 
 
