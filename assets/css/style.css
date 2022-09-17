@@ -190,7 +190,7 @@ footer p {
 
 }
 
-.cocktail-item * {
+.cocktail-item-all {
     list-style-type: none;
     margin: 0.5rem 0;
 }
