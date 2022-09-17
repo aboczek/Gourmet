@@ -406,9 +406,9 @@ Wanted something nice and sleek.
 
 | **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
-| User see Book table button | User can press on Book table button | User will land on Book table form section | PASS              |
+| User see Thank you page | User can see Thank you page and return to main page | User will see Thank you page thanking them for booking and be able to return to main page | PASS              |
 <details><summary>Picture</summary>
-<img src="" alt="Thank you page"/>
+<img src="assets/images/testing-user-stories-9.jpg" alt="Thank you page"/>
 </details>
 <br>
 
