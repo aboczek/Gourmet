@@ -47,6 +47,7 @@ Wanted something nice and sleek.
     - As user I want you to easily navigate to Drinks Menu.
     - As user I want you to easily access Booking Table and successfully use it.
     - As user I want you to easily access About Us and successfully use it.
+    - As user I want you be able to use map in About us section.
     - As user I want you to see Thank you page after booking table. 
 
     
@@ -390,6 +391,16 @@ Wanted something nice and sleek.
 | User see About us button | User can press on About us button | User will land on About us section | PASS              |
 <details><summary>Picture</summary>
 <img src="assets/images/testing-user-stories-7.jpg" alt="About us"/>
+</details>
+<br>
+
+- As user I want you be able to use map in About us section.
+
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+| User see About us button | User can press on About us button | User will land on About us section | PASS              |
+<details><summary>Picture</summary>
+<img src="" alt="About us google map"/>
 </details>
 <br>
 
