@@ -252,6 +252,12 @@ button {
     background-color: var(--gold);
 }
 
+button:hover {
+    background-color: var(--bg);
+    color: var(--white);
+    border: 2px solid var(--white);
+}
+
 form input {
     height: 3rem;
     margin: 1rem;
