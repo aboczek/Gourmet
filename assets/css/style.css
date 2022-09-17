@@ -244,9 +244,9 @@ footer p {
 }
 
 button {
-    width: 10rem;
+    width: 15rem;
     height: 4rem;
-    border-radius: 0.5rem;
+    border-radius: 2rem;
     margin-top: 1rem;
     background-color: var(--gold);
 }
