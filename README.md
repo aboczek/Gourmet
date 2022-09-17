@@ -412,11 +412,6 @@ Wanted something nice and sleek.
 </details>
 <br>
 
-
-
-
-
-
 # Deployment
 Following writing the code then commiting and pushing to GitHub, this project was deployed using GitHub by the following steps.
 
