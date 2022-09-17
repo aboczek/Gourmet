@@ -323,15 +323,26 @@ Wanted something nice and sleek.
 
 # Testing user stories
 
- - User Story
-    - As user visiting website I want you to understand what is the website about.
-    - As user visiting website I want you to navigate easily through the website.
+- As user visiting website I want you to understand what is the website about.
+
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+|User understands whats the website is about| User can see first section of website| User can see that website is about restaurant | PASS              |
+<details>
+<img src="assets/images/testing-user-stories-1.jpg" alt="Landing page">
+</details>
+
+- As user visiting website I want you to navigate easily through the website.
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+|User understands whats the website is about| User can see first section of website| User can see that website is about restaurant | PASS              |
+
     - As user I want you to see landing page and navigate through it.
     - As user I want you to easily navigate to Main Menu.
-    - As user I want you to easily navigate to Drinks Menu.
-    - As user I want you to easily access Booking Table and successfully use it.
-    - As user I want you to easily access About Us and successfully use it.
-    - As user returning I want you to easily navigate through website as the first time without any issue even if there were any changes implemented. 
+- As user I want you to easily navigate to Drinks Menu.
+- As user I want you to easily access Booking Table and successfully use it.
+- As user I want you to easily access About Us and successfully use it.
+- As user returning I want you to easily navigate through website as the first time without any issue even if there were any changes implemented. 
 
 
 
