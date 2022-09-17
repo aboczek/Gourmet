@@ -134,7 +134,7 @@ footer p {
     margin: 0;
 }
 
-.menu-item * {
+.menu-item-all {
     list-style-type: none;
     margin: 0.5rem 0;
 }
