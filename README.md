@@ -50,8 +50,6 @@ Wanted something nice and sleek.
     - As user I want you be able to use map in About us section.
     - As user I want you to see Thank you page after booking table. 
 
-    
-
 ## Website Goals
 
 - Increase customer number.
@@ -398,9 +396,9 @@ Wanted something nice and sleek.
 
 | **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
-| User see About us button | User can press on About us button | User will land on About us section | PASS              |
+| User see map | User can use map to locate the restaurant if needed | User will find where restaurant is located if needed | PASS              |
 <details><summary>Picture</summary>
-<img src="" alt="About us google map"/>
+<img src="assets/images/testing-user-stories-8.jpg" alt="About us google map"/>
 </details>
 <br>
 
