@@ -466,14 +466,14 @@ iframe {
 
     .flex {
         width: 90%;
-        margin-left: 0;
-        margin-right: 0;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .cocktails {
         width: 90%;
-        margin-left: 0;
-        margin-right: 0;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .booktable {
