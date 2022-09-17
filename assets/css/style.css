@@ -41,7 +41,10 @@ nav {
     height: 15vh;
 }
 
-header a,
+.logo {
+    text-decoration: none;
+    color: var(--white);
+}
 #menu li a {
     text-decoration: none;
     color: var(--white);
