@@ -324,7 +324,7 @@ Wanted something nice and sleek.
 
 - As user visiting website I want you to understand what is the website about.
 
-| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User understands whats the website is about | User can see first section of website| User can see that website is about restaurant | PASS              |
 <details>
@@ -334,7 +334,7 @@ Wanted something nice and sleek.
 
 - As user visiting website I want you to navigate easily through the website.
 
-| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User can navigate though website easily | User can see navigation bar| User can press buttons and will be brought to certain parts of page | PASS              |
 <details><summary>Picture</summary>
@@ -344,7 +344,7 @@ Wanted something nice and sleek.
 
 - As user I want you to see landing page and navigate through it.
 
-| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User see landing page and can navigate through it | User can see landing page and navigation bar| User can see landing page and navigation bar and use it to navigate through it easily | PASS              |
 <details><summary>Picture</summary>
@@ -354,7 +354,7 @@ Wanted something nice and sleek.
 
 - As user I want you to easily navigate to Main Menu.
 
-| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User see Main menu button | User can press on Main menu button | User will land on Food menu section| PASS              |
 <details><summary>Picture</summary>
@@ -364,7 +364,7 @@ Wanted something nice and sleek.
 
 - As user I want you to easily navigate to Drinks Menu.
 
-| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User see Drinks menu button | User can press on Drinks menu button | User will land on Drinks menu section | PASS              |
 <details><summary>Picture</summary>
@@ -374,7 +374,7 @@ Wanted something nice and sleek.
 
 - As user I want you to easily access Booking Table and successfully use it.
 
-| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User see Book table button | User can press on Book table button | User will land on Book table form section | PASS              |
 <details><summary>Picture</summary>
@@ -384,7 +384,7 @@ Wanted something nice and sleek.
 
 - As user I want you to easily access About Us and successfully use it.
 
-| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User see About us button | User can press on About us button | User will land on About us section | PASS              |
 <details><summary>Picture</summary>
@@ -394,7 +394,7 @@ Wanted something nice and sleek.
 
 - As user I want you be able to use map in About us section.
 
-| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User see map | User can use map to locate the restaurant if needed | User will find where restaurant is located if needed | PASS              |
 <details><summary>Picture</summary>
@@ -404,7 +404,7 @@ Wanted something nice and sleek.
 
 - As user I want you to see Thank you page after booking table. 
 
-| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User see Book table button | User can press on Book table button | User will land on Book table form section | PASS              |
 <details><summary>Picture</summary>
