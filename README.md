@@ -327,22 +327,58 @@ Wanted something nice and sleek.
 
 | **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
-|User understands whats the website is about| User can see first section of website| User can see that website is about restaurant | PASS              |
+| User understands whats the website is about | User can see first section of website| User can see that website is about restaurant | PASS              |
 <details>
-<img src="assets/images/testing-user-stories-1.jpg" alt="Landing page">
+<img src="assets/images/testing-user-stories-1.jpg" alt="Landing page"/>
 </details>
+<br>
 
 - As user visiting website I want you to navigate easily through the website.
+
+
 | **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
-|User understands whats the website is about| User can see first section of website| User can see that website is about restaurant | PASS              |
+| User can navigate though website easily | User can see navigation bar| User can press buttons and will be brought to certain parts of page | PASS              |
+<details>
+<img src="assets/images/testing-user-stories-2.png" alt="Navigation bar"/>
+</details>
+<br>
 
-    - As user I want you to see landing page and navigate through it.
-    - As user I want you to easily navigate to Main Menu.
+- As user I want you to see landing page and navigate through it.
+
+
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+| User see landing page and can navigate through it | User can see landing page and navigation bar| User can see landing page and navigation bar and use it to navigate through it easily | PASS              |
+<details>
+<img src="assets/images/testing-user-stories-3.jpg" alt="Landing page and navigation bar"/>
+</details>
+<br>
+
+- As user I want you to easily navigate to Main Menu.
+
+
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+| User see Main menu button | User can press on Main menu button | User will land on Food menu | PASS              |
+<details>
+<img src="assets/images/testing-user-stories-4.jpg" alt="Food menu"/>
+</details>
+<br>
+
+
 - As user I want you to easily navigate to Drinks Menu.
+
+
 - As user I want you to easily access Booking Table and successfully use it.
+
+
 - As user I want you to easily access About Us and successfully use it.
+
+
 - As user returning I want you to easily navigate through website as the first time without any issue even if there were any changes implemented. 
+
+
 
 
 
