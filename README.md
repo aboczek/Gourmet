@@ -335,43 +335,53 @@ Wanted something nice and sleek.
 
 - As user visiting website I want you to navigate easily through the website.
 
-
 | **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User can navigate though website easily | User can see navigation bar| User can press buttons and will be brought to certain parts of page | PASS              |
-<details>
+<details><summary>Picture</summary>
 <img src="assets/images/testing-user-stories-2.png" alt="Navigation bar"/>
 </details>
 <br>
 
 - As user I want you to see landing page and navigate through it.
 
-
 | **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User see landing page and can navigate through it | User can see landing page and navigation bar| User can see landing page and navigation bar and use it to navigate through it easily | PASS              |
-<details>
+<details><summary>Picture</summary>
 <img src="assets/images/testing-user-stories-3.jpg" alt="Landing page and navigation bar"/>
 </details>
 <br>
 
 - As user I want you to easily navigate to Main Menu.
 
-
 | **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
-| User see Main menu button | User can press on Main menu button | User will land on Food menu | PASS              |
-<details>
+| User see Main menu button | User can press on Main menu button | User will land on Food menu section| PASS              |
+<details><summary>Picture</summary>
 <img src="assets/images/testing-user-stories-4.jpg" alt="Food menu"/>
 </details>
 <br>
 
-
 - As user I want you to easily navigate to Drinks Menu.
 
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+| User see Drinks menu button | User can press on Drinks menu button | User will land on Drinks menu section | PASS              |
+<details><summary>Picture</summary>
+<img src="assets/images/testing-user-stories-5.jpg" alt="Drinks menu"/>
+</details>
+<br>
 
 - As user I want you to easily access Booking Table and successfully use it.
 
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+| User see Book table button | User can press on Book table button | User will land on Book table form section | PASS              |
+<details><summary>Picture</summary>
+<img src="assets/images/testing-user-stories-6.jpg" alt="Book table form"/>
+</details>
+<br>
 
 - As user I want you to easily access About Us and successfully use it.
 
