@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
 /* for font import */
 
 @import url('https://fonts.googleapis.com/css2?family=Amethysta&family=Cherish&display=swap');
@@ -71,7 +78,8 @@ nav {
     width: 20rem;
     border: 0.2rem solid var(--white);
     border-radius: 1rem;
-    backdrop-filter: blur(1rem);
+    -webkit-backdrop-filter: blur(1rem);
+            backdrop-filter: blur(1rem);
 
 }
 
@@ -113,9 +121,16 @@ footer p {
 /* main menu */
 
 .flex {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    align-items: stretch;
-    flex-direction: column;
+    -webkit-box-align: stretch;
+        -ms-flex-align: stretch;
+            align-items: stretch;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
     color: var(--white);
     padding: 2rem 2rem;
     margin-top: 5rem;
@@ -124,13 +139,18 @@ footer p {
     margin-right: auto;
     width: 100rem;
     background-color: rgba(19, 19, 19, 0.69);
-    backdrop-filter: blur(1rem);
+    -webkit-backdrop-filter: blur(1rem);
+            backdrop-filter: blur(1rem);
     border-radius: 2.5rem;
 }
 
 .price {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    justify-content: space-between;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
     margin: 0;
 }
 
@@ -143,7 +163,9 @@ footer p {
     color: var(--gold);
     font-weight: 200;
     font-size: 1.4rem;
-    flex-grow: 0;
+    -webkit-box-flex: 0;
+        -ms-flex-positive: 0;
+            flex-grow: 0;
     padding-bottom: 0.5rem;
 }
 
@@ -168,19 +190,28 @@ footer p {
 /* drink menu */
 
 .cocktails {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    align-items: stretch;
-    flex-direction: column;
+    -webkit-box-align: stretch;
+        -ms-flex-align: stretch;
+            align-items: stretch;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
     color: var(--white);
     padding: 2rem 2rem;
     margin-top: 1rem;
     margin-left: auto;
     margin-bottom: auto;
     margin-right: auto;
-    flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
     width: 100rem;
     background-color: rgba(19, 19, 19, 0.692);
-    backdrop-filter: blur(1rem);
+    -webkit-backdrop-filter: blur(1rem);
+            backdrop-filter: blur(1rem);
     border-radius: 2.5rem;
 }
 
@@ -208,7 +239,9 @@ footer p {
     color: var(--gold);
     font-weight: 200;
     font-size: 1.4rem;
-    flex-grow: 0;
+    -webkit-box-flex: 0;
+        -ms-flex-positive: 0;
+            flex-grow: 0;
     padding-bottom: 0.5rem;
 }
 
@@ -234,7 +267,8 @@ footer p {
     color: var(--white);
     font-size: 2rem;
     background: rgba(19, 19, 19, 0.692);
-    backdrop-filter: blur(1rem);
+    -webkit-backdrop-filter: blur(1rem);
+            backdrop-filter: blur(1rem);
     margin-bottom: 2rem;
     margin-left: auto;
     margin-right: auto;
@@ -269,9 +303,16 @@ textarea {
 }
 
 #tel-email-number {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
 }
 
 #date-time {
@@ -283,14 +324,20 @@ textarea {
 
 .thank-you {
     color: var(--white);
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
     text-align: center;
     margin: 10rem auto;
     width: 40rem;
     height: 30rem;
     background-color: var(--bg);
-    backdrop-filter: blur(1rem);
+    -webkit-backdrop-filter: blur(1rem);
+            backdrop-filter: blur(1rem);
     border-radius: 2rem;
 }
 
@@ -305,9 +352,16 @@ textarea {
 }
 
 .thank-you a {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     text-align: center;
     text-decoration: none;
     color: var(--bg);
@@ -332,11 +386,19 @@ textarea {
 .aboutus {
     color: var(--white);
     background: rgba(19, 19, 19, 0.692);
-    backdrop-filter: blur(1rem);
+    -webkit-backdrop-filter: blur(1rem);
+            backdrop-filter: blur(1rem);
     width: 55rem;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    justify-content: center;
-    flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
     margin-top: 5rem;
     margin-bottom: 10rem;
     margin-left: auto;
@@ -535,11 +597,19 @@ iframe {
         width: 100%;
         height: 6rem;
         position: fixed;
-        backdrop-filter: blur(1rem);
+        -webkit-backdrop-filter: blur(1rem);
+                backdrop-filter: blur(1rem);
         z-index: 9999995;
+        display: -webkit-box;
+        display: -ms-flexbox;
         display: flex;
-        flex-direction: row;
-        justify-content: space-between;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+                flex-direction: row;
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
     }
 
     #logo-burger {
@@ -568,14 +638,20 @@ iframe {
         margin-top: 6rem;
         font-size: 2rem;
         background-color: var(--bg);
-        backdrop-filter: blur(1rem);
+        -webkit-backdrop-filter: blur(1rem);
+                backdrop-filter: blur(1rem);
         border-top: 1px solid var(--gold);
         z-index: 999996;
     }
 
     #ham-nav li {
+        display: -webkit-box;
+        display: -ms-flexbox;
         display: flex;
-        flex-direction: column;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
         text-align: center;
         margin-left: auto;
         margin-right: auto;
@@ -590,7 +666,10 @@ iframe {
     }
 
     #ham-nav li a:hover {
-        backdrop-filter: blur(1rem);
+        -webkit-backdrop-filter: blur(1rem);
+                backdrop-filter: blur(1rem);
+        -webkit-transition: 1s;
+        -o-transition: 1s;
         transition: 1s;
     }
 
