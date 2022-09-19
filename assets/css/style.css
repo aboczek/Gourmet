@@ -499,6 +499,7 @@ iframe {
 
     .booktable {
         width: 90%;
+        height: auto;
     }
 
     /* map in about us */
