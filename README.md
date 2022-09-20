@@ -46,6 +46,7 @@ Wanted something nice and sleek.
     - As user I want you to easily navigate to Main Menu.
     - As user I want you to easily navigate to Drinks Menu.
     - As user I want you to easily access Booking Table and successfully use it.
+    - As user I want you to fill in your details in Booking form to succesfully book a table.
     - As user I want you to easily access About Us and successfully use it.
     - As user I want you be able to use map in About us section.
     - As user I want you to see Thank you page after booking table. 
