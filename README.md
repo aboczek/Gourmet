@@ -373,6 +373,16 @@ Wanted something nice and sleek.
 </details>
 <br>
 
+- As user I want you to fill in your details in Booking form to succesfully book a table.
+
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+| User see form and fills it in | User can fill in the form to book a table | User will be able to press on book a table button without showing required | PASS              |
+<details><summary>Picture</summary>
+<img src="assets/images/testing-user-stories-input.jpg" alt="Book table required in form"/>
+</details>
+<br>
+
 - As user I want you to easily access Booking Table and successfully use it.
 
 | **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Result** |
@@ -382,6 +392,7 @@ Wanted something nice and sleek.
 <img src="assets/images/testing-user-stories-6.jpg" alt="Book table form"/>
 </details>
 <br>
+
 
 - As user I want you to easily access About Us and successfully use it.
 
