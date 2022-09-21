@@ -161,7 +161,7 @@ footer p {
 
 .menu-item p {
     color: var(--gold);
-    font-weight: 200;
+    font-weight: 300;
     font-size: 1.4rem;
     -webkit-box-flex: 0;
     -ms-flex-positive: 0;
@@ -234,7 +234,7 @@ footer p {
 
 .cocktail-item p {
     color: var(--gold);
-    font-weight: 200;
+    font-weight: 300;
     font-size: 1.4rem;
     -webkit-box-flex: 0;
     -ms-flex-positive: 0;
