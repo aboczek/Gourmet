@@ -168,6 +168,10 @@ Wanted something nice and sleek.
         - Opened hamburger menu for mobiles.
 
             <img src="documentation/menu-mobile-open.png" alt="Mobile menu open"/>
+
+        - Hamburger menu with hover for mobiles.
+
+            <img src="documentation/mobile-hamburger-menu-hover.png" alt="Mobile menu open hover">  
     
     
     - Tablets.
