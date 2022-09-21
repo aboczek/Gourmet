@@ -667,8 +667,7 @@ iframe {
     }
 
     #ham-nav li a:hover {
-        -webkit-backdrop-filter: blur(1rem);
-        backdrop-filter: blur(1rem);
+        background-color: var(--gold);
         -webkit-transition: 1s;
         -o-transition: 1s;
         transition: 1s;
