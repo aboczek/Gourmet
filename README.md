@@ -87,7 +87,7 @@ Wanted something nice and sleek.
             <img src="documentation/greyopacity.png" width="100" alt="Opaque Grey Color" />
 
     - Fonts:
-        - Fonts used on website are [Cherish](https://fonts.google.com/specimen/Cherish?query=cherish) and Amethyst from google fonts. Cherish is used for logo itself and [Amethysta](https://fonts.google.com/specimen/Amethysta?query=amet) for buttons.
+        - Fonts used on website are [Cherish](https://fonts.google.com/specimen/Cherish?query=cherish) and Amethyst from google fonts. Cherish is used for logo itself and [Lato](https://fonts.google.com/specimen/Lato) for buttons.
         - Backup fonts is sans-serif if main font cannot be loaded for any reason.
 
     - Images:
