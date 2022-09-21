@@ -105,7 +105,7 @@ Wanted something nice and sleek.
 - [Thank you page](documentation/wireframes/thank-you-tablet.png)
 
 ### Mobile
-- [Mobile Main Page](documentation/wireframes/Mobile.png)
+- [Mobile Main Page](documentation/wireframes/mobile.png)
 - [Thank you page](documentation/wireframes/thank-you-mobile.png)
 
 # Website structure
