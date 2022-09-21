@@ -62,7 +62,7 @@ Wanted something nice and sleek.
 - Clear information about restaurants services.
 - Readable menu.
 - Simple ways to book table at the restaurant.
-- Simple ways to contact us if necessary.
+- Simple ways to find us on map.
 
 ## Expectations
 
