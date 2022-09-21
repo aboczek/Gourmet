@@ -293,13 +293,13 @@ Wanted something nice and sleek.
     
         - Main Page and Thank you
 
-        <img src="documentation/html validator.png" alt="HTML validator picture" />
+        <img src="documentation/html-validator.png" alt="HTML validator picture" />
 
     - CSS Validator
 
         - CSS 
 
-        <img src="documentation/css validator.png" alt="CSS validator picture" />
+        <img src="documentation/css-validator.png" alt="CSS validator picture" />
 
 
 2. Testing on website.
