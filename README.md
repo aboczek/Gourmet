@@ -328,7 +328,7 @@ Wanted something nice and sleek.
 | **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Result** |
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User understands whats the website is about | User can see first section of website| User can see that website is about restaurant | PASS              |
-<details>
+<details><summary>Picture</summary>
 <img src="assets/images/testing-user-stories-1.jpg" alt="Landing page"/>
 </details>
 <br>
