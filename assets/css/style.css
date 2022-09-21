@@ -202,10 +202,7 @@ footer p {
     flex-direction: column;
     color: var(--white);
     padding: 2rem 2rem;
-    margin-top: 1rem;
-    margin-left: auto;
-    margin-bottom: auto;
-    margin-right: auto;
+    margin: 1rem auto auto auto;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     width: 100rem;
