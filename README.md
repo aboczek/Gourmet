@@ -31,7 +31,7 @@ This is protfolio project about Italian restaurant called Gourmet, it is designe
 # Motivation:
 
 This project is about restaurant, menu and booking table. 
-Main purpose of this project is to present landing page of the restaurant with menu, drinks, booking table and contact us/about us.
+Main purpose of this project is to present landing page of the restaurant with menu, drinks, booking table and about us.
 
 I chose this project over any other one is because how hard it is to get pictures without copyright on them. 
 Wanted something nice and sleek.
@@ -152,7 +152,7 @@ Wanted something nice and sleek.
 1. Responsive on all devices.
 2. Interactive buttons
 3. Book table.
-4. Contact us.
+4. About us.
 
 ## Navigation bar
 
