@@ -78,13 +78,13 @@ Wanted something nice and sleek.
 
         - Gold #ffd700;
             
-            <img src="assets/images/gold.png" width="100" alt="Gold Color" />
+            <img src="documentation/gold.png" width="100" alt="Gold Color" />
         - White #ffffff;
 
-            <img src="assets/images/white.png" width="100" alt="White Color" />
+            <img src="documentation/white.png" width="100" alt="White Color" />
         - #131313b0; 
         
-            <img src="assets/images/greyopacity.png" width="100" alt="Opaque Grey Color" />
+            <img src="documentation/greyopacity.png" width="100" alt="Opaque Grey Color" />
 
     - Fonts:
         - Fonts used on website are [Cherish](https://fonts.google.com/specimen/Cherish?query=cherish) and Amethyst from google fonts. Cherish is used for logo itself and [Amethysta](https://fonts.google.com/specimen/Amethysta?query=amet) for buttons.
@@ -97,16 +97,16 @@ Wanted something nice and sleek.
 ## Wireframes
 
 ### Desktop
-- [Desktop Main Page](documentation/desktop.png)
-- [Thank you page](documentation/thank-you-pc.png)
+- [Desktop Main Page](documentation/wireframes/desktop.png)
+- [Thank you page](documentation/wireframes/thank-you-pc.png)
 
 ### Tablet
-- [Tablet Main Page](documentation/Tablet.png)
-- [Thank you page](documentation/thank-you-tablet.png)
+- [Tablet Main Page](documentation/wireframes/Tablet.png)
+- [Thank you page](documentation/wireframes/thank-you-tablet.png)
 
 ### Mobile
-- [Mobile Main Page](documentation/Mobile.png)
-- [Thank you page](documentation/thank-you-mobile.png)
+- [Mobile Main Page](documentation/wireframes/Mobile.png)
+- [Thank you page](documentation/wireframes/thank-you-mobile.png)
 
 # Website structure
 
@@ -163,100 +163,100 @@ Wanted something nice and sleek.
 
         - Hidden hamburger menu for mobiles.
 
-            <img src="assets/images/menu-mobile-hidden.png" alt="Mobile menu hidden"/>
+            <img src="documentation/menu-mobile-hidden.png" alt="Mobile menu hidden"/>
 
         - Opened hamburger menu for mobiles.
 
-            <img src="assets/images/menu-mobile-open.png" alt="Mobile menu open"/>
+            <img src="documentation/menu-mobile-open.png" alt="Mobile menu open"/>
     
     
     - Tablets.
 
         - Small Tablets 
 
-            <img src="assets/images/menu-tablet-small.png" alt="Small Tablet menu" />
+            <img src="documentation/menu-tablet-small.png" alt="Small Tablet menu" />
 
         - Tablets
 
-            <img src="assets/images/menu-tablet.png" alt="Tablet menu" />
+            <img src="documentation/menu-tablet.png" alt="Tablet menu" />
 
     - Desktop.
 
         - Desktops
 
-            <img src="assets/images/menu-desktop.png" alt="Desktop menu" />
+            <img src="documentation/menu-desktop.png" alt="Desktop menu" />
 
 - Main content of website will be nicely adjusted on all devices with pictures below:
 
     - Mobile devices.
 
-        <img src="assets/images/main-mobile-content-1.jpg" alt="Mobile content" width="50%"/>
+        <img src="documentation/main-mobile-content-1.jpg" alt="Mobile content" width="50%"/>
 
-        <img src="assets/images/main-mobile-content-2.png" alt="Food menu starters" width="50%"/>
+        <img src="documentation/main-mobile-content-2.png" alt="Food menu starters" width="50%"/>
 
-        <img src="assets/images/main-mobile-content-3.png" alt="Food menu main course" width="50%"/>
+        <img src="documentation/main-mobile-content-3.png" alt="Food menu main course" width="50%"/>
 
-        <img src="assets/images/main-mobile-content-4.png" alt="Food menu desserts" width="50%"/>
+        <img src="documentation/main-mobile-content-4.png" alt="Food menu desserts" width="50%"/>
 
-        <img src="assets/images/main-mobile-cocktails-1.png" alt="Drinks menu cocktails" width="50%"/>
+        <img src="documentation/main-mobile-cocktails-1.png" alt="Drinks menu cocktails" width="50%"/>
 
-        <img src="assets/images/main-mobile-cocktails-2.png" alt="Drinks menu beer" width="50%"/>
+        <img src="documentation/main-mobile-cocktails-2.png" alt="Drinks menu beer" width="50%"/>
 
-        <img src="assets/images/main-mobile-cocktails-3.png" alt="Drinks menu beer and wines" width="50%"/>
+        <img src="documentation/main-mobile-cocktails-3.png" alt="Drinks menu beer and wines" width="50%"/>
 
-        <img src="assets/images/mobile-book-table-update.png" alt="Booking a table" width="50%"/>
+        <img src="documentation/mobile-book-table-update.png" alt="Booking a table" width="50%"/>
 
-        <img src="assets/images/main-mobile-about-us-1.png" alt="About us " width="50%"/>
+        <img src="documentation/main-mobile-about-us-1.png" alt="About us " width="50%"/>
 
-        <img src="assets/images/main-mobile-about-us-2.png" alt="About us map" width="50%"/>
+        <img src="documentation/main-mobile-about-us-2.png" alt="About us map" width="50%"/>
 
         [Back to top](#gourmet-restaurant-portfolio-project-1)
 
     - Tablets.
 
-        <img src="assets/images/main-tablet-content-1.jpg" alt="Tablet content" />
+        <img src="documentation/main-tablet-content-1.jpg" alt="Tablet content" />
 
-        <img src="assets/images/main-tablet-content-2.jpg" alt="Food menu starters" />
+        <img src="documentation/main-tablet-content-2.jpg" alt="Food menu starters" />
 
-        <img src="assets/images/main-tablet-content-3.jpg" alt="Food menu main course" />
+        <img src="documentation/main-tablet-content-3.jpg" alt="Food menu main course" />
 
-        <img src="assets/images/main-tablet-content-4.jpg" alt="Food menu desserts" />
+        <img src="documentation/main-tablet-content-4.jpg" alt="Food menu desserts" />
 
-        <img src="assets/images/main-tablet-cocktails-1.png" alt="Drinks menu cocktails" />
+        <img src="documentation/main-tablet-cocktails-1.png" alt="Drinks menu cocktails" />
 
-        <img src="assets/images/main-tablet-cocktails-2.png" alt="Drinks menu beer" />
+        <img src="documentation/main-tablet-cocktails-2.png" alt="Drinks menu beer" />
 
-        <img src="assets/images/main-tablet-cocktails-3.png" alt="Drinks menu wine" />
+        <img src="documentation/main-tablet-cocktails-3.png" alt="Drinks menu wine" />
 
-        <img src="assets/images/tablet-book-table-update.jpg" alt="Booking a table" />
+        <img src="documentation/tablet-book-table-update.jpg" alt="Booking a table" />
 
-        <img src="assets/images/main-tablet-about-us-1.png" alt="About us" />
+        <img src="documentation/main-tablet-about-us-1.png" alt="About us" />
 
-        <img src="assets/images/main-tablet-about-us-2.png" alt="About us map" />
+        <img src="documentation/main-tablet-about-us-2.png" alt="About us map" />
 
     [Back to top](#gourmet-restaurant-portfolio-project-1)
 
     - Desktop.
 
-        <img src="assets/images/main-desktop-content-1.jpg" alt="Desktop content" />
+        <img src="documentation/main-desktop-content-1.jpg" alt="Desktop content" />
 
-        <img src="assets/images/main-desktop-content-2.jpg" alt="Food menu starters" />
+        <img src="documentation/main-desktop-content-2.jpg" alt="Food menu starters" />
 
-        <img src="assets/images/main-desktop-content-3.jpg" alt="Food menu main course" />
+        <img src="documentation/main-desktop-content-3.jpg" alt="Food menu main course" />
 
-        <img src="assets/images/main-desktop-content-4.jpg" alt="Food menu desserts" />
+        <img src="documentation/main-desktop-content-4.jpg" alt="Food menu desserts" />
 
-        <img src="assets/images/main-desktop-content-5.jpg" alt="Drinks menu cocktails" />
+        <img src="documentation/main-desktop-content-5.jpg" alt="Drinks menu cocktails" />
 
-        <img src="assets/images/main-desktop-content-6.jpg" alt="Drinks menu beer" />
+        <img src="documentation/main-desktop-content-6.jpg" alt="Drinks menu beer" />
 
-        <img src="assets/images/main-desktop-content-7.jpg" alt="Drinks menu wine" />
+        <img src="documentation/main-desktop-content-7.jpg" alt="Drinks menu wine" />
 
-        <img src="assets/images/desktop-book-table-update.jpg" alt="Booking a table" />
+        <img src="documentation/desktop-book-table-update.jpg" alt="Booking a table" />
 
-        <img src="assets/images/main-desktop-content-9.jpg" alt="About us" />
+        <img src="documentation/main-desktop-content-9.jpg" alt="About us" />
 
-        <img src="assets/images/main-desktop-content-10.jpg" alt="About us map" />
+        <img src="documentation/main-desktop-content-10.jpg" alt="About us map" />
 
         [Back to top](#gourmet-restaurant-portfolio-project-1)
 
@@ -264,18 +264,18 @@ Wanted something nice and sleek.
 
     - Mobile
 
-        <img src="assets/images/mobile-thank-you.png" alt="Thank you website on mobile" />
+        <img src="documentation/mobile-thank-you.png" alt="Thank you website on mobile" />
     - Tablet 
 
-        <img src="assets/images/tablet-thank-you.jpg" alt="Thank you website on tablet" />
+        <img src="documentation/tablet-thank-you.jpg" alt="Thank you website on tablet" />
     - Desktop
 
-        <img src="assets/images/desktop-thank-you.jpg" alt="Thank you website on desktop" />
+        <img src="documentation/desktop-thank-you.jpg" alt="Thank you website on desktop" />
 
 - Footer
     - Footer looks the same on all devices just space around is wider.
 
-    <img src="assets/images/footer.png" alt="Footer" />
+    <img src="documentation/footer.png" alt="Footer" />
 
 
 
@@ -289,13 +289,13 @@ Wanted something nice and sleek.
     
         - Main Page and Thank you
 
-        <img src="assets/images/html validator.png" alt="HTML validator picture" />
+        <img src="documentation/html validator.png" alt="HTML validator picture" />
 
     - CSS Validator
 
         - CSS 
 
-        <img src="assets/images/css validator.png" alt="CSS validator picture" />
+        <img src="documentation/css validator.png" alt="CSS validator picture" />
 
 
 2. Testing on website.
@@ -303,11 +303,11 @@ Wanted something nice and sleek.
 
         - Mobile Lighthouse score
 
-        <img src="assets/images/mobile-lighthouse-score.png" alt="Lighthouse score" />
+        <img src="documentation/mobile-lighthouse-score.png" alt="Lighthouse score" />
 
         - Desktop Lighthouse score
 
-        <img src="assets/images/desktop-ligthhouse-incognito.png" alt="Lighthouse score" />
+        <img src="documentation/desktop-ligthhouse-incognito.png" alt="Lighthouse score" />
 
 
 3. Testing on portable devices.
@@ -315,7 +315,7 @@ Wanted something nice and sleek.
 
         - Screenfly website.
 
-            <img src="assets/images/screenfly-test.jpg" alt="Screenfly test" />
+            <img src="documentation/screenfly-test.jpg" alt="Screenfly test" />
 
 4. Known bugs.
     - Date and Time input is blank on mobile phones but not in Previews or Live website with Right Click **Inspect**.
@@ -329,7 +329,7 @@ Wanted something nice and sleek.
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User understands whats the website is about | User can see first section of website| User can see that website is about restaurant | PASS              |
 <details><summary>Picture</summary>
-<img src="assets/images/testing-user-stories-1.jpg" alt="Landing page"/>
+<img src="documentation/testing-user-stories-1.jpg" alt="Landing page"/>
 </details>
 <br>
 
@@ -339,7 +339,7 @@ Wanted something nice and sleek.
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User can navigate though website easily | User can see navigation bar| User can press buttons and will be brought to certain parts of page | PASS              |
 <details><summary>Picture</summary>
-<img src="assets/images/testing-user-stories-2.png" alt="Navigation bar"/>
+<img src="documentation/testing-user-stories-2.png" alt="Navigation bar"/>
 </details>
 <br>
 
@@ -349,7 +349,7 @@ Wanted something nice and sleek.
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User see landing page and can navigate through it | User can see landing page and navigation bar| User can see landing page and navigation bar and use it to navigate through it easily | PASS              |
 <details><summary>Picture</summary>
-<img src="assets/images/testing-user-stories-3.jpg" alt="Landing page and navigation bar"/>
+<img src="documentation/testing-user-stories-3.jpg" alt="Landing page and navigation bar"/>
 </details>
 <br>
 
@@ -359,7 +359,7 @@ Wanted something nice and sleek.
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User see Main menu button | User can press on Main menu button | User will land on Food menu section| PASS              |
 <details><summary>Picture</summary>
-<img src="assets/images/testing-user-stories-4.jpg" alt="Food menu"/>
+<img src="documentation/testing-user-stories-4.jpg" alt="Food menu"/>
 </details>
 <br>
 
@@ -369,7 +369,7 @@ Wanted something nice and sleek.
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User see Drinks menu button | User can press on Drinks menu button | User will land on Drinks menu section | PASS              |
 <details><summary>Picture</summary>
-<img src="assets/images/testing-user-stories-5.jpg" alt="Drinks menu"/>
+<img src="documentation/testing-user-stories-5.jpg" alt="Drinks menu"/>
 </details>
 <br>
 
@@ -379,7 +379,7 @@ Wanted something nice and sleek.
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User see form and fills it in | User can fill in the form to book a table | User will be able to press on book a table button without showing required | PASS              |
 <details><summary>Picture</summary>
-<img src="assets/images/testing-user-stories-input.jpg" alt="Book table required in form"/>
+<img src="documentation/testing-user-stories-input.jpg" alt="Book table required in form"/>
 </details>
 <br>
 
@@ -389,7 +389,7 @@ Wanted something nice and sleek.
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User see Book table button | User can press on Book table button | User will land on Book table form section | PASS              |
 <details><summary>Picture</summary>
-<img src="assets/images/testing-user-stories-6.jpg" alt="Book table form"/>
+<img src="documentation/testing-user-stories-6.jpg" alt="Book table form"/>
 </details>
 <br>
 
@@ -400,7 +400,7 @@ Wanted something nice and sleek.
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User see About us button | User can press on About us button | User will land on About us section | PASS              |
 <details><summary>Picture</summary>
-<img src="assets/images/testing-user-stories-7.jpg" alt="About us"/>
+<img src="documentation/testing-user-stories-7.jpg" alt="About us"/>
 </details>
 <br>
 
@@ -410,7 +410,7 @@ Wanted something nice and sleek.
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User see map | User can use map to locate the restaurant if needed | User will find where restaurant is located if needed | PASS              |
 <details><summary>Picture</summary>
-<img src="assets/images/testing-user-stories-8.jpg" alt="About us google map"/>
+<img src="documentation/testing-user-stories-8.jpg" alt="About us google map"/>
 </details>
 <br>
 
@@ -420,7 +420,7 @@ Wanted something nice and sleek.
 |---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
 | User see Thank you page | User can see Thank you page and return to main page | User will see Thank you page thanking them for booking and be able to return to main page | PASS              |
 <details><summary>Picture</summary>
-<img src="assets/images/testing-user-stories-9.jpg" alt="Thank you page"/>
+<img src="documentation/testing-user-stories-9.jpg" alt="Thank you page"/>
 </details>
 <br>
 
